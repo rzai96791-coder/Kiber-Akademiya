@@ -1,0 +1,865 @@
+===MOVZU===
+1
+Mövzu 1: Güclü Şifrələr
+Hakerlər hesabları ələ keçirmək üçün ilk növbədə sadə şifrələri yoxlayırlar. Heç vaxt adınızı, təvəllüdünüzü və ya '123456' kimi kombinasiyaları şifrə qoymayın. Şifrəniz ən azı 8-12 simvoldan ibarət olmalıdır, böyük-kiçik hərflər və @, #, $ kimi işarələr ehtiva etməlidir.
+Sual 1: Hansı şifrə ən təhlükəsizdir?|rza123|Rza@Cyber#2026|123456|B
+Sual 2: Şifrə minimum neçə simvol olmalıdır?|3 simvol|5 simvol|8-12 simvol|C
+Sual 3: Şifrədə xüsusi işarələrin (!, @, #) olması nə dərəcədə vacibdir?|Vacib deyil|Təhlükəsizliyi çox artırır|Sistemi zəiflədir|B
+Sual 4: Aşağıdakılardan hansı şifrə kimi istifadə edilməməlidir?|Doğum tarixiniz|Qarışıq hərflər|Uzun cümlələr|A
+Sual 5: Hər hesab üçün eyni şifrəni istifadə etmək düzgündürmü?|Bəli, yadda qalır|Xeyr, biri oğurlansa hamısı gedər|Fərqi yoxdur|B
+Sual 6: Şifrə menecerləri (Password Manager) nə üçün istifadə olunur?|Şifrələri təhlükəsiz saxlamaq üçün|İnterneti sürətləndirmək üçün|Oyun yükləmək üçün|A
+Sual 7: Şifrənizi kimsə istəsə nə etməlisiniz?|Dostumdursa verərəm|Heç kimə deməməliyəm|Mesajla göndərərəm|B
+Sual 8: "12345678" necə bir şifrədir?|Çox güclü|Zəif və təhlükəli|İdeal şifrə|B
+Sual 9: Güclü şifrə yaratmaq üçün hansı kombinasiya düzgündür?|Yalnız rəqəm|Yalnız böyük hərf|Böyük-kiçik hərf, rəqəm və işarə|C
+Sual 10: Şifrənizi nə qədər müddətdən bir yeniləmək məsləhətdir?|Heç vaxt dəyişməmək|Bir neçə aydan bir|Hər gün|B
+===MOVZU===
+2
+Mövzu 2: Təhlükəli Linklər
+Zərərli linklər (Malicious Links) vasitəsilə hakerlərin əsas məqsədi telefonunuza gizlicə virus salmaq və ya sizi saxta səhifələrə yönləndirməkdir. WhatsApp, Telegram və ya SMS vasitəsilə gələn şübhəli keçidlər böyük təhlükə yaradır.
+Qızıl Qaydalar:
+- Tanımadığınız şəxslərdən gələn heç bir linkə klikləməyin.
+- Saytın rəsmi olub-olmadığını yoxlamaq üçün ünvan panelinə (URL) diqqətlə baxın.
+Sual 1: WhatsApp-dan gələn naməlum linkə nə edərsiniz?|Kliklərəm|Klikləmədən silərəm|Dostuma göndərərəm|B
+Sual 2: Hakerlər zərərli linklərlə telefona nə yükləyə bilər?|Casus virus proqramı|Yeni oyun yeniləməsi|Antivirus|A
+Sual 3: Linkin təhlükəsiz olduğunu göstərən ilkin işarə hansıdır?|Saytın rəngi|Saytın ünvanında "https://" olması|Saytdakı şəkillər|B
+Sual 4: "Pulsuz kontur/internet qazandınız" linkləri adətən nədir?|Hədiyyə kampaniyası|Haker tələsi|Sistem bildirişi|B
+Sual 5: Dostunuz sizə şübhəli bir link göndərsə nə etməlisiniz?|Dərhal klikləməliyəm|Ona hesabının oğurlana biləcəyini deyib xəbərdar etməliyəm|Həmin linki qruplarda paylaşmalıyam|B
+Sual 6: Qısaldılmış linklər (məs: bit.ly, tinyurl) niyə riskli ola bilər?|İnterneti zəiflədir|Həqiqi sayt ünvanını gizlətdiyi üçün|Telefonu dondurur|B
+Sual 7: SMS-lə gələn "Kargonuz var, linkə daxil olun" mesajına nə vaxt inanmaq olar?|Həmişə inanmaq olar|Yalnız həqiqətən kargo gözləyiriksə və rəsmi nömrədən gəlibsə|Heç vaxt inanmaq olmaz|B
+Sual 8: Zərərli linkə kliklədikdə ilk olaraq nə etmək lazımdır?|Şifrəni yazmaq|Səhifəni dərhal bağlamaq və brauzeri təmizləmək|Gözləmək|B
+Sual 9: Saxta linkləri orijinalından ayıran əsas fərq nədir?|Şəkillərin olmaması|Ünvandakı hərf fərqləri (məs: facebool.com)|Saytın gec açılması|B
+Sual 10: Təhlükəli linklərdən qorunmaq üçün hansı proqram vacibdir?|Oyun proqramı|Güclü bir Antivirus proqramı|Sosial şəbəkə|B
+===MOVZU===
+3
+Mövzu 3: Oyun Hiylələrindəki Viruslar
+Oyunlarda (Brawl Stars, Roblox, PUBG və s.) daha sürətli qalib gəlmək üçün internetdən yüklənən hiylə (cheat, hack) proqramlarının 99%-i virusdur. Hakerlər bu proqramların içinə gizli troyan (Trojan) virusları yerləşdirirlər. Siz hiyləni işə salanda arxa planda sizin bütün şəkilləriniz, sosial şəbəkə şifrələriniz hakerlərin əlinə keçir.
+Qızıl Qaydalar:
+- Heç bir oyunun hiylə versiyasını yükləməyin. Unutmayın, pulsuz pendir yalnız tələdə olur.
+- Oyunları və tətbiqləri yalnız rəsmi mağazalardan (Google Play, App Store) yükləyin.
+Sual 1: İnternetdən oyun hiyləsi (cheat) yüklədikdə nə baş verə bilər?|Oyun daha maraqlı olar|Telefonumuza casus viruslar (Trojan) yoluxar|İnternet sürətlənər|B
+Sual 2: Hakerlər oyun hiyləsi proqramlarının daxilinə ən çox hansı virusu qoyurlar?|Faydalı proqram|Troyan (Trojan) virusu|Oyun modu|B
+Sual 3: Oyunları təhlükəsiz şəkildə haradan yükləməliyik?|Naməlum internet saytlarından|Yalnız rəsmi mağazalardan (Google Play / App Store)|Telegram qruplarından|B
+Sual 4: "Oyun daxilində pulsuz limitsiz almaz/baku qazan" saytları nədir?|Həqiqi kampaniya|İstifadəçilərin şifrələrini oğurlamaq üçün qurulan tələ|Oyunun öz saytı|B
+Sual 5: Bir proqramı yükləyərkən telefon "Təhlükəli mənbə xəbərdarlığı" verirsə nə etməliyik?|Yükləməyə davam etməliyik|Yükləməni dərhal ləğv etməliyik|Telefonu söndürməliyik|B
+Sual 6: Pullu bir oyunun internetdəki pulsuz "crack" versiyası niyə təhlükəlidir?|Oyunun yarımçıq olmasına görə|Daxilinə şifrə oğurlayan viruslar yerləşdirildiyi üçün|Heç bir təhlükəsi yoxdur|B
+Sual 7: Oyun hiyləsi yüklədikdən sonra sosial şəbəkə hesabınız oğurlanarsa səbəb nədir?|Sistem xətası|Hiylə proqramı ilə gələn virusun şifrələri hakerə göndərməsi|Təsadüf|B
+Sual 8: Antivirus proqramı yüklədiyiniz oyun hiyləsinə "Virus" deyirsə nə etməlisiniz?|Antivirusu söndürməlisiniz|Hiylə proqramını dərhal silməlisiniz|Oyuna davam etməlisiniz|B
+Sual 9: Əsl kiber-idmançı və peşəkar oyunçu necə oynamalıdır?|Hiylə işlədərək|Öz halal zəhməti və bacarığı ilə, dürüstcə|Viruslu proqramlarla|B
+Sual 10: Oyun hesabınızı hakerlərdən qorumaq üçün nə etməlisiniz?|Sadə şifrə qoymaq|İkiaddımlı doğrulamayı (2FA) aktiv etmək və hiylələrdən uzaq durmaq|Hər kəsə şifrəni demək|B
+===MOVZU===
+4
+Mövzu 4: İctimai Wi-Fi Şəbəkələrinin Təhlükələri
+Parklarda, kafelərdə və ya metroda qarşınıza çıxan pulsuz, şifrəsiz Wi-Fi şəbəkələri çox vaxt hakerlərin tələsi olur. Hakerlər həmin məkanda "Kafe_Free_WiFi" kimi saxta adla şəbəkə açırlar. Siz bu şəbəkəyə qoşulduğunuz an, hakerlər sizin daxil olduğunuz saytları, yazdığınız mesajları və şifrələri gizlicə izləyə bilirlər (buna Man-in-the-Middle hücumu deyilir).
+Qızıl Qaydalar:
+- İctimai yerlərdə məcburi olmadıqca şifrəsiz Wi-Fi şəbəkələrinə qoşulmayın, öz mobil internetinizdən istifadə edin.
+- Əgər qoşulmaq məcburidirsinizsə, mütləq VPN proqramını aktiv edin ki, ötürülən məlumatlarınız şifrələnsin və hakerlər onu oxuya bilməsin.
+Sual 1: İctimai yerlərdə açıq və şifrəsiz Wi-Fi şəbəkələrinə qoşulmaq niyə risklidir?|İnternet çox sürətli olduğu üçün|Hakerlər bütün ötürülən məlumatları və şifrələri gizlicə izləyə bildiyi üçün|Telefonun batareyası tez bitdiyi üçün|B
+Sual 2: Hakerlərin araya girərək sizin Wi-Fi üzərindən məlumatlarınızı oğurlaması hücumuna nə ad verilir?|Man-in-the-Middle (Ortadakı adam)|Phishing|DDoS hücumu|A
+Sual 3: İctimai Wi-Fi-a qoşulmaq məcburiyyətində qaldıqda məlumatları şifrələmək üçün hansı proqramdan istifadə edilməlidir?|Oyun sürətləndirici|VPN proqramı|Brauzer|B
+Sual 4: İctimai Wi-Fi şəbəkəsinə qoşulub hansı əməliyyatı etmək tamamilə təhlükəlidir?|Hava durumuna baxmaq|Bank hesabına daxil olmaq və ya kartla nəsə almaq|Musiqi dinləmək|B
+Sual 5: Kafe rəhbərliyindən Wi-Fi-ın tam dəqiq adını soruşmaq bizə nə qazandırır?|İnterneti pulsuz edir|Hakerlərin qurduğu saxta Wi-Fi tələsinə düşməkdən qoruyur|Telefonun yaddaşını artırır|B
+Sual 6: Şifrəli (WPA2/WPA3 qorumalı) ev Wi-Fi şəbəkəsi ictimai Wi-Fi-dan niyə daha təhlükəsizdir?|Daha ucuzdur|Məlumat axını kənar şəxslərə qarşı şifrələndiyi üçün|Şəkilləri daha sürətli yüklədiyi üçün|B
+Sual 7: İctimai Wi-Fi-da olarkən brauzerdə "Bağlantınız təhlükəsiz deyil" xəbərdarlığı çıxarsa nə etməlisiniz?|Sayta daxil olmağa davam etməlisiniz|Səhifəni dərhal bağlamalı və Wi-Fi-dan ayrılmalısınız|Telefonu format etməlisiniz|B
+Sual 8: "Free_Metro_WiFi" adına tam əmin olmadan qoşulmaq düzgündürmü?|Xeyr, hakerin qurduğu saxta şəbəkə ola bilər|Bəli, pulsuz internetdir|Fərqi yoxdur|A
+Sual 9: Mobil internetiniz (4G/5G) olduğu halda parkdakı naməlum Wi-Fi-a keçmək necə qərardır?|Çox ağıllı qərardır|Gərəksiz riskdir, öz mobil internetiniz daha təhlükəsizdir|İnternetə qənaət üçün idealdır|B
+Sual 10: Evinizdəki Wi-Fi şəbəkəsinin şifrəsini qonşularla və ya hər kəslə paylaşmaq düzgündürmü?|Bəli, paylaşıb istifadə etsinlər|Xeyr, şəbəkəyə qoşulan yad şəxs sizin daxili cihazlarınıza sızmağa cəhd edə bilər|Fərqi yoxdur|B
+===MOVZU===
+5
+Mövzu 5: Sosial Mühəndislik Tələləri
+Sosial Mühəndislik (Social Engineering) hakerlərin heç bir proqram işlətmədən, sadəcə yalan danışaraq sizi aldatması sənətidir. Onlar özlərini polis, bank işçisi, oyun idarəçisi və ya yaxın dostunuz kimi təqdim edə bilərlər. Sizə təzyiq edərək, qorxudaraq ("Hesabınız silinir!") və ya hədiyyə vəd edərək gizli məlumatlarınızı sizdən öz xoşunuzla alırlar.
+Qızıl Qaydalar:
+- İnternetdə və ya zəngdə sizdən təcili qərar vermənizi istəyən, qorxu yaradan şəxslərə qarşı şübhəli olun.
+- Rəsmi qurumlar heç vaxt sizdən zənglə şifrə, kartın arxasındakı 3 rəqəmli kodu (CVV) istəməz.
+Sual 1: Sosial mühəndislik hücumunun əsas hədəfi nədir?|Kompyuter sistemləri|İnsan psixologiyası və təcrübəsizliyi|İnternet provayderləri|B
+Sual 2: Özlərini polis kimi təqdim edib "Hesabınız cinayətə qarışıb, şifrənizi deyin" deyənlərə nə etməlisiniz?|Şifrəni dərhal deməliyəm|İnanmayıb dəstəyi asmalı və rəsmi qurumla əlaqə saxlamalıyam|Dostuma zəng etməliyəm|B
+Sual 3: Hakerlərin sosial mühəndislikdə ən çox istifadə etdiyi duyğu hansıdır?|Sevinc|Qorxu və tələskənlik yaratmaq|Tənbəllik|B
+Sual 4: Oyun administratoru (Admin) adından gələn "Hesabınızı yoxlamalıyam, şifrəni yazın" mesajına cavab necə olmalıdır?|Şifrəni yazmalıyam|Rəsmi adminlər şifrə istəməz, mesajı silib şikayət etməliyəm|Dostumun şifrəsini göndərməliyəm|B
+Sual 5: Sosial mühəndislikdən qorunmağın ən güclü yolu hansıdır?|Bahalı telefon almaq|Sual vermək, şübhə duymaq və soyuqqanlı olmaq|İnterneti söndürmək|B
+Sual 6: Kartın arxasındakı 3 rəqəmli CVV kodunu zəng edən bank işçisinə demək olarmı?|Bəli, o bank işçisidir|Xeyr, bu kod heç kimə deyilməməlidir, pulun oğurlanmasına səbəb olar|Fərqi yoxdur|B
+Sual 7: Hakerlər sosial mühəndislik etməzdən əvvəl qurban haqqında məlumatı haradan toplayırlar?|Kitabxanadan|Sosial şəbəkələrdə açıq paylaşılan şəxsi məlumatlardan (profil postlarından)|Kosmosdan|B
+Sual 8: Yaxın dostunuzun profilindən "Mənə təcili pul lazımdır, kart kodunu göndər" yazılsa ilk nə etməlisiniz?|Dərhal göndərməliyəm|Dostuma başqa kanalla (zənglə və s.) əlaqə saxlayıb profilinin oğurlanıb-oğurlanmadığını dəqiqləşdirməliyəm|Mesajı görməzdən gəlməliyəm|B
+Sual 9: Aşağıdakılardan hansı sosial mühəndislik əlamətidir?|Sistem yenilənməsi|Sizi təcili və panika içində hərəkət etməyə məcbur etmək|Telefonun sönməsi|B
+Sual 10: "Mənə kömək etsən sənə pulsuz oyun xalları verəcəm" deyən naməlum şəxsə inanmaq olarmı?|Bəli, kömək etmək lazımdır|Xeyr, bu şəxs sosial mühəndisliklə sizi tələyə salmağa çalışır|Yalnız bir dəfə inanmaq olar|B
+===MOVZU===
+5
+Mövzu 5: Sosial Mühəndislik Tələləri
+Sosial Mühəndislik (Social Engineering) hakerlərin heç bir proqram işlətmədən, sadəcə yalan danışaraq sizi aldatması sənətidir. Onlar özlərini polis, bank işçisi, oyun idarəçisi və ya yaxın dostunuz kimi təqdim edə bilərlər. Sizə təzyiq edərək, qorxudaraq ("Hesabınız silinir!") və ya hədiyyə vəd edərək gizli məlumatlarınızı sizdən öz xoşunuzla alırlar.
+Qızıl Qaydalar:
+- İnternetdə və ya zəngdə sizdən təcili qərar vermənizi istəyən, qorxu yaradan şəxslərə qarşı şübhəli olun.
+- Rəsmi qurumlar heç vaxt sizdən zənglə şifrə, kartın arxasındakı 3 rəqəmli kodu (CVV) istəməz.
+Sual 1: Sosial mühəndislik hücumunun əsas hədəfi nədir?|Kompyuter sistemləri|İnsan psixologiyası və təcrübəsizliyi|İnternet provayderləri|B
+Sual 2: Özlərini polis kimi təqdim edib "Hesabınız cinayətə qarışıb, şifrənizi deyin" deyənlərə nə etməlisiniz?|Şifrəni dərhal deməliyəm|İnanmayıb dəstəyi asmalı və rəsmi qurumla əlaqə saxlamalıyam|Dostuma zəng etməliyəm|B
+Sual 3: Hakerlərin sosial mühəndislikdə ən çox istifadə etdiyi duyğu hansıdır?|Sevinc|Qorxu və tələskənlik yaratmaq|Tənbəllik|B
+Sual 4: Oyun administratoru (Admin) adından gələn "Hesabınızı yoxlamalıyam, şifrəni yazın" mesajına cavab necə olmalıdır?|Şifrəni yazmalıyam|Rəsmi adminlər şifrə istəməz, mesajı silib şikayət etməliyəm|Dostumun şifrəsini göndərməliyəm|B
+Sual 5: Sosial mühəndislikdən qorunmağın ən güclü yolu hansıdır?|Bahalı telefon almaq|Sual vermək, şübhə duymaq və soyuqqanlı olmaq|İnterneti söndürmək|B
+Sual 6: Kartın arxasındakı 3 rəqəmli CVV kodunu zəng edən bank işçisinə demək olarmı?|Bəli, o bank işçisidir|Xeyr, bu kod heç kimə deyilməməlidir, pulun oğurlanmasına səbəb olar|Fərqi yoxdur|B
+Sual 7: Hakerlər sosial mühəndislik etməzdən əvvəl qurban haqqında məlumatı haradan toplayırlar?|Kitabxanadan|Sosial şəbəkələrdə açıq paylaşılan şəxsi məlumatlardan (profil postlarından)|Kosmosdan|B
+Sual 8: Yaxın dostunuzun profilindən "Mənə təcili pul lazımdır, kart kodunu göndər" yazılsa ilk nə etməlisiniz?|Dərhal göndərməliyəm|Dostuma başqa kanalla (zənglə və s.) əlaqə saxlayıb profilinin oğurlanıb-oğurlanmadığını dəqiqləşdirməliyəm|Mesajı görməzdən gəlməliyəm|B
+Sual 9: Aşağıdakılardan hansı sosial mühəndislik əlamətidir?|Sistem yenilənməsi|Sizi təcili və panika içində hərəkət etməyə məcbur etmək|Telefonun sönməsi|B
+Sual 10: "Mənə kömək etsən sənə pulsuz oyun xalları verəcəm" deyən naməlum şəxsə inanmaq olarmı?|Bəli, kömək etmək lazımdır|Xeyr, bu şəxs sosial mühəndisliklə sizi tələyə salmağa çalışır|Yalnız bir dəfə inanmaq olar|B
+===MOVZU===
+6
+Mövzu 6: Kamera və Mikrofon Təhlükəsizliyi
+Casus proqramlar (Spyware) telefonunuza və ya kompyuterinizə sızdıqda ilk etdikləri işlərdən biri kamera və mikrofonun idarəsini ələ keçirməkdir. Bir çox sadə oyun və ya divar kağızı (wallpaper) tətbiqləri quraşdırılarkən gərəksiz yerə sizdən kamera və mikrofon icazəsi tələb edir. Bu icazəni verdiyiniz an proqram arxa planda gizlicə sizi izləyə və səsinizi qeyd edə bilər.
+Qızıl Qaydalar:
+- Yeni bir proqram yükləyərkən onun funksiyasına uyğun olmayan icazələri (məsələn, sadə bir kalkulyatorun kamera və ya mikrofona daxil olmaq istəməsini) rədd edin.
+- Telefonunuzun ayarlarından "İcazə Meneceri" (Permission Manager) bölməsinə girərək hansı tətbiqlərin kameranıza daxil ola bildiyini mütəmadi yoxlayın.
+Sual 1: Telefonumuza sızaraq bizi gizlicə izləyən və səsimizi yazan zərərli proqramlara ne ad verilir?|Antivirus|Casus proqramlar (Spyware)|Oyun modları|B
+Sual 2: Sadə bir tapmaca oyunu yüklənərkən kamera və mikrofon icazəsi istəyirsə nə etməliyik?|İcazə verməliyik|İcazəni rədd etməliyik, çünki oyun üçün bu gərəksiz və şübhəlidir|Telefonu sıfırlamalıyıq|B
+Sual 3: Tətbiqlərin hansı icazələrə sahib olduğunu telefonun harasından yoxlaya bilərik?|Oyun qalereyasından|Ayarlar -> İcazə Meneceri (Permissions) bölməsindən|İnternet brauzerindən|B
+Sual 4: Müasir telefonların ekranının yuxarı küncündə çıxan yaşıl nöqtə nəyi bildirir?|Telefonun enerjisinin bitdiyini|Həmin an hansısa tətbiqin kamera və ya mikrofondan istifadə etdiyini|Yeni mesaj gəldiyini|B
+Sual 5: İstifadə etmədiyimiz vaxtlarda noutbuk və ya kompyuter kamerasını xüsusi stikerlə bağlamaq nə üçün faydalıdır?|Kameranın tozlanmaması üçün|Hakerlər gizlicə sızsa belə görüntünün qarşısını almaq üçün|Kompyuterin sürətlənməsi üçün|B
+Sual 6: Kamera icazəsini yalnız hansı növ tətbiqlərə vermək məntiqlidir?|Yalnız rəsmi və funksiyası şəkil/video çəkmək olan tətbiqlərə (məs: rəsmi kamera, görüntülü zəng tətbiqi)|Bütün oyunlara|Heç bir proqrama vermək olmaz|A
+Sual 7: Casus proqramların kameramızı gizlicə açmasının qarşısını alan ən əsas sistem qoruması nədir?|Telefonu tez-tez söndürmək|Əməliyyat sistemini həmişə ən son versiyaya yeniləmək və etibarlı proqramlar işlətmək|Ekran parlaqlığını azaltmaq|B
+Sual 8: İnternetdən yüklənən naməlum "Səs dəyişdirici" proqramlar hansı riski daşıyır?|İnterneti kəsə bilər|Arxa planda mikrofonu açıq qoyub casusluq edə bilər|Telefonun yaddaşını təmizləyə bilər|B
+Sual 9: Kameranızın icazəsiz açıldığından şübhələnirsinizsə ilk nə etməlisiniz?|Şübhəli tətbiqi tapıb silməli və sistemi antivirusla taramalıyıq|Yeni telefon almalıyıq|Dostumuza zəng etməliyik|A
+Sual 10: Hansı hərəkət mikrofon təhlükəsizliyini təhlükəyə atır?|Danışarkən qulaqlıq istifadə etmək|Hər yüklənən tətbiqə sorğusuz-sualsız mikrofon icazəsi vermək|Səsi tam səviyyəyə qaldırmaq|B
+===MOVZU===
+7
+Mövzu 7: Saxta Profillər və Təhlükələr
+Sosial şəbəkələrdə (Instagram, TikTok, Facebook) qarşınıza çıxan hər profil real insana məxsus olmaya bilər. Saxta profillər (Fake Accounts) yaradan şəxslər çox vaxt şəkilləri internetdən oğurlayırlar. Onlar sizinlə dostluq qurub etibarınızı qazandıqdan sonra sizdən borc pul istəyə, şəxsi şəkillərinizi tələb edə və ya sizi təhdid edə bilərlər.
+Qızıl Qaydalar:
+- İnternetdə yeni tanış olduğunuz və real həyatda tanımadığınız şəxslərə heç vaxt tam güvənməyin, şəxsi məlumatlarınızı verməyin.
+- Profilin saxta olub-olmadığını anlamaq üçün onun paylaşım tarixlərinə, izləyici siyahısına və rəsmi hesablarda olan mavi nişana (Blue Tick) diqqət edin.
+Sual 1: Sosial şəbəkələrdə başqasının şəkilləri ilə açılan saxta hesablara nə ad verilir?|Orijinal hesab|Saxta profil (Fake account)|Bot profil|B
+Sual 2: Real həyatda tanımadığınız bir profil sizə mesaj yazıb şəxsi şəklinizi istəsə nə etməlisiniz?|Şəkli göndərməliyəm|İmtina etməli, mesajı silməli və profili bloklamalıyam|Dostlarıma göstərməliyəm|B
+Sual 3: Məşhur şəxslərin və ya şirkətlərin hesabının həqiqi olduğunu göstərən əsas işarə hansıdır?|Profil şəklinin gözəlliyi|Adın yanındakı mavi təsdiq nişanı (Verified)|İzləyici sayının çox olması|B
+Sual 4: Saxta profillərin adətən hansı xüsusiyyəti olur?|Paylaşımları çox köhnə və nizamlı olur|Profil şəkli internetdən götürülür, paylaşımı az və ya yeni açılmış olur|Hər kəs tərəfindən tanınır|B
+Sual 5: İnternetdə tanış olduğunuz biri sizə "Mən sənin yaşındayam" deyirsə, bu hər zaman doğrudurmu?|Xeyr, böyük bir haker və ya bədniyyətli şəxs özünü uşaq kimi göstərə bilər|Bəli, internetdə hamı dürüstdür|Fərqi yoxdur|A
+Sual 6: Bir profilin şəkillərinin saxta olub-olmadığını internetdə necə yoxlamaq olar?|Şəklə uzun müddət baxmaqla|Google Reverse Image (Şəkillə axtarış) funksiyası ilə şəklin başqa saytlardan oğurlanıb-oğurlanmadığını yoxlamaqla|Telefonu söndürüb yandırmaqla|B
+Sual 7: Saxta bir profil sizi internetdə təhdid və ya şantaj edirsə ilk olaraq nə etməlisiniz?|Ona pul göndərməlisiniz|Dərhal valideynlərinizə və ya polisə xəbər verməli, profili şikayət etməlisiniz|Hesabınızı silməlisiniz|B
+Sual 8: Dostunuzun adından yeni bir profil sizə yazıb "Köhnə hesabım bağlandı, mənə təcili şifrəni göndər" desə nə edərsiniz?|Şifrəni göndərərəm|Dostuma zəng edib soruşaram, çünki bu böyük ehtimalla saxta profildir|Mesajı hamıya yayaram|B
+Sual 9: Sosial şəbəkədə hər gələn dostluq istəyini qəbul etmək niyə təhlükəlidir?|Telefonun yaddaşı dolar|Profiliniz saxta və zərərli hesabların hədəfinə çevrilə bilər|İnternet paketi tez bitər|B
+Sual 10: Saxta profillərdən qorunmağın ən sadə yolu hansıdır?|Sosial şəbəkədən ümumiyyətlə çıxmaq|Yalnız real həyatda tanıdığımız insanlarla ünsiyyət qurmaq və kənar şəxslərə qapalı olmaq|Hər kəslə danışmaq|B
+===MOVZU===
+8
+Mövzu 8: Fidyə Virusları və Yedəkləmə
+Fidyə virusları (Ransomware) cihazınıza daxil olduqda şəkillərinizi, videolarınızı və sənədlərinizi şifrələyərək kilidləyir. Hakerlər bu kilidi açmaq üçün sizdən böyük məbləğdə pul (fidyə) tələb edirlər. Pul ödənsə belə, faylların geri qaytarılma zəmanəti yoxdur. Bu təhlükədən qorunmağın tək tam zəmanətli yolu faylların yedəyini (Backup) kənar bir yerdə saxlamaqdır.
+Qızıl Qaydalar:
+- Ən vacib şəkillərinizi və fayllarınızı mütəmadi olaraq bulud sistemlərində (Google Drive, iCloud) və ya kompüterə qoşulu olmayan kənar bir USB diskdə yedəkləyin.
+- Naməlum və güvənilməyən proqramları cihazınıza yükləməyin, çünki fidyə virusları çox vaxt oyun crack-ləri ilə birlikdə gəlir.
+Sual 1: Faylları kilidləyib açmaq üçün pul tələb edən virus növünə nə ad verilir?|Troyan|Fidyə virusu (Ransomware)|Casus proqram|B
+Sual 2: Fidyə virusuna qarşı ən güclü və zəmanətli müdafiə üsulu hansıdır?|Ekran kilidini dəyişmək|Məlumatları mütəmadi olaraq başqa yerdə yedəkləmək (Backup)|İnternet paketi almaq|B
+Sual 3: Hakerlərə istədikləri fidyə pulunu ödəmək düzgündürmü?|Bəli, dərhal ödənməlidir|Xeyr, çünki pulu alıb faylları geri qaytarmaya bilərlər və bu cinayətkarları dəstəkləmək olar|Fərqi yoxdur|B
+Sual 4: Məlumatları təhlükəsiz yedəkləmək (Backup) üçün haradan istifadə etmək olar?|Yalnız telefonun daxili yaddaşından|Güvənli bulud servislərindən (Google Drive, iCloud) və ya kənar disklərdən|Sosial şəbəkə mesajlarından|B
+Sual 5: Kompüterə davamlı qoşulu qalan xarici yaddaş diski fidyə virusundan qorunarmı?|Bəli, tam qorunur|Xeyr, virus kompüterə yoluxsa, qoşulu olan xarici diski də şifrələyə bilər|Fərqi yoxdur|B
+Sual 6: Fidyə virusları kompüterlərə ən çox hansı yolla sızır?|Rəsmi proqram yeniləmələri ilə|Zərərli e-maillər və internetdən yüklənən saxta/crack proqramlar vasitəsilə|Telefon zəngləri ilə|B
+Sual 7: Cihazınızda bütün faylların sonluğu qəribə hərflərlə dəyişibsə və açılmırsa nə baş verib?|Telefonun yaddaşı dolub|Cihaza fidyə virusu yoluxub|Sistem yenilənir|B
+Sual 8: Yedəkləmə (Backup) prosesini nə qədər müddətdən bir etmək məsləhətdir?|Heç vaxt etməmək|Mütəmadi olaraq (həftəlik və ya aylıq)|Yalnız 5 ildən bir|B
+Sual 9: Fidyə virusuna yoluxmuş cihazı xilas etməyin ilk addımı nə olmalıdır?|Daha çox pul tapmaq|Cihazın internetlə əlaqəsini dərhal kəsmək ki, digər cihazlara yayılmasın|Telefonu söndürüb saxlamaq|B
+Sual 10: "Məlumatların Ehtiyat Nüsxəsi" ifadəsi kiber-təhlükəsizlikdə hansı terminlə ifad olunur?|Phishing|Backup|Firewall|B
+===MOVZU===
+9
+Mövzu 9: Saxta Tətbiqlər və Mağaza Təhlükəsizliyi
+Rəsmi tətbiq mağazalarında (Google Play, App Store) təhlükəsizlik yüksək olsa da, hakerlər bəzən sistemləri aldadaraq saxta proqramlar yerləşdirə bilirlər. Bu proqramlar çox vaxt populyar oyunların (məsələn, Minecraft, GTA) pulsuz modları, saxta antiviruslar və ya qəşəng klaviatura tətbiqləri kimi maskalanır. Onlar yükləndikdən sonra arxa planda reklamlar açır, telefonu dondurur və ya məlumatları oğurlayırlar.
+Qızıl Qaydalar:
+- Bir proqramı yükləməzdən əvvəl onun rəylərini (Reviews), ulduz sayını və yüklənmə sayını mütləq yoxlayın.
+- Proqramı hazırlayan şirkətin adına (Developer) diqqət edin; rəsmi şirkət olduğundan əmin olun.
+Sual 1: Google Play və ya App Store-da gizlənən zərərli proqramlara nə ad verilir?|Rəsmi proqram|Saxta/Zərərli tətbiq|Sistem yeniləməsi|B
+Sual 2: Bir tətbiqin saxta olub-olmadığını anlamaq üçün ilk növbədə hara baxmaq lazımdır?|Tətbiqin rənginə|İstifadəçi rəylərinə, yüklənmə sayına və ulduzlarına|Şəkillərin sayına|B
+Sual 3: Populyar bir oyunun rəsmi mağazada pulsuz "Mod" versiyasını görsəniz nə etməlisiniz?|Dərhal yükləməliyəm|Şübhəli yanaşmalı, rəyləri oxumalı və çox vaxt saxta olduğunu bilib uzaq durmalıyam|Dostuma məsləhət görməliyəm|B
+Sual 4: Tətbiq mağazasında proqramı yaradan şəxs və ya şirkət necə adlanır?|Geymer|Developer (Tərtibatçı)|Haker|B
+Sual 5: Cəmi 100 nəfər tərəfindən yüklənmiş və hamının "pisdir, reklam açır" yazdığı proqramı yükləmək düzgündürmü?|Bəli, sınamaq olar|Xeyr, böyük ehtimallı virus və ya saxta tətbiqdir|Fərqi yoxdur|B
+Sual 6: Saxta antivirus proqramlarının əsas ziyanı nədir?|Telefonu təmizləmək|Arxa planda virus yaymaq və telefonu reklamlarla doldurmaq|Yaddaşı artırmaq|B
+Sual 7: Rəsmi tətbiq mağazaları zərərli proqramları aşkar etdikdə nə edirlər?|Saytlarda paylaşırlar|Mağazadan dərhal silirlər və təhlükəsizlik sistemini gücləndirirlər|Oyunu pullu edirlər|B
+Sual 8: Telefona yüklənən saxta bir klaviatura tətbiqi hansı riski yarada bilər?|İnterneti sürətləndirər|Yazdığınız bütün şifrələri və kart kodlarını gizlicə qeyd edib hakerə göndərə bilər|Heç bir riski yoxdur|B
+Sual 9: Bir tətbiqin rəsmi olduğunu təsdiqləyən ən güclü göstərici hansıdır?|Yüklənmə sayının milyonlarla olması və tərtibatçının rəsmi marka olması|Şəklinin böyük olması|Adının uzun olması|A
+Sual 10: Təhlükəli bir tətbiqi səhvən yüklədikdə dərhal nə etməliyik?|Oyuna davam etməliyik|Tətbiqi dərhal silməli və cihazı güvənli bir antivirusla taramalıyıq|Telefonu gizlətməliyik|B
+===MOVZU===
+10
+Mövzu 10: Kiber Bulinq və Ondan Qorunmaq
+Kiber bulinq (Cyberbullying) rəqəmsal dünyada, xüsusən də sosial şəbəkələrdə və oyun çatlarında kiminsə qəsdən təhqir edilməsi, hədələnməsi və ya alçaldılmasıdır. Hakerlər və ya bəzi pisniyyətli istifadəçilər saxta profillər arxasında gizlənərək bu hərəkətləri edirlər. Unutmayın ki, internetdə sizi narahat edən heç bir qorxutma və ya təhqir cavabsız qalmamalıdır.
+Qızıl Qaydalar:
+- Kiber bulinqə məruz qaldıqda əsla qarşı tərəfə eyni şəkildə cavab verməyin, çünki bu onların istədiyi şeydir.
+- Sizi narahat edən mesajların dərhal ekran şəklini (Screenshot) çəkib sübut olaraq saxlayın, həmin şəxsi bloklayın və mütləq böyüklərə (valideynə və ya müəllimə) xəbər verin.
+Sual 1: İnternet və ya sosial şəbəkə üzərindən insanların hədələnməsi və ya təhqir edilməsi necə adlanır?|Phishing|Kiber Bulinq (Cyberbullying)|Sosial Mühəndislik|B
+Sual 2: Onlayn oyunda kimsə sizi davamlı olaraq təhqir edirsə ilk olaraq nə etməlisiniz?|Siz də onu təhqir etməlisiniz|Onu oyundaxili bloklamalı/şikayət etməli və sakit qalmalısınız|Oyundan tamamilə çıxıb ağlamalısınız|B
+Sual 3: Kiber bulinq mesajlarını sübut kimi saxlamaq üçün nə etmək lazımdır?|Mesajları silmək lazımdır|Ekran şəklini (Screenshot) çəkib yaddaşda saxlamaq lazımdır|Dostumuza danışmaq lazımdır|B
+Sual 4: İnternetdə kimsə sizi gizli məlumatlarınızı yaymaqla hədələyirsə ilk kimə deməlisiniz?|Heç kimə deməməliyəm|Valideynlərimə, müəlliməmə və ya hüquq-mühafizə orqanlarına (polisə)|Onlayn dostlarıma|B
+Sual 5: Kiber bulinq edən şəxsə eyni kobudluqla cavab vermək vəziyyəti necə dəyişir?|Problemi həll edir|Vəziyyəti daha da pisləşdirir və sizi də günahkar vəziyyətinə salır|İnterneti sürətləndirir|B
+Sual 6: Sosial şəbəkələrdə kiber bulinqin qarşısını almaq üçün hansı funksiyadan istifadə edilir?|Bəyənmə (Like) düyməsindən|Bloklama (Block) və Şikayət etmə (Report) düymələrindən|Paylaşma düyməsindən|B
+7
+Sual 7: Özümüz onlayn oyunlarda və ya şərhlərdə başqalarına qarşı necə davranmalıyıq?|İstədiyimiz kimi kobud|Həmişə hörmətli, nəzakətli və dürüst|Görməzdən gələrək|B
+Sual 8: "İnternetdə məni tanımırlar, istədiyimi edə bilərəm" düşüncəsi düzgündürmü?|Bəli, internet azaddır|Xeyr, kiber bulinq qanunla cinayətdir və hər bir profili tapmaq mümkündür|Fərqi yoxdur|B
+Sual 9: Bir dostunuzun internetdə başqası tərəfindən incidildiyini (bulinq edildiyini) görsəniz nə etməlisiniz?|Ona gülməliyəm|Dostuma dəstək olmalı və bu vəziyyəti böyüklərə bildirməliyəm|Görməzdən gəlməliyəm|B
+Sual 10: Kiber bulinqdən qorunmaq üçün profillərimizi necə saxlamalıyıq?|Hər kəsə açıq və mesaj qəbulu sərbəst|Gizli (Private) və yalnız tanıdığımız insanlara açıq|Şifrəsiz|B
+===MOVZU===
+11
+Mövzu 11: IP Ünvanları və Şəbəkə Təhlükəsizliyi
+IP ünvanı (İnternet Protokol) internetə qoşulan hər bir cihazın (telefon, kompüter, modem) sahib olduğu rəqəmsal ev ünvanıdır. Hakerlər sizin IP ünvanınızı əldə etdikdə, təxmini olaraq hansı şəhərdə və hansı internet provayderindən istifadə etdiyinizi görə bilərlər. Həmçinin IP ünvanı vasitəsilə cihazınıza cihazı donduran DDoS hücumları edə bilərlər.
+Qızıl Qaydalar:
+- Naməlum oyun serverlərinə qoşularkən və ya şübhəli şəxslərlə onlayn danışarkən diqqətli olun; bəzi saxta linklər (IP Logger) yalnız sizin IP ünvanınızı qoparmaq üçün hazırlanır.
+- IP ünvanınızı gizli saxlamaq və internetdə tam təhlükəsiz maskalanmaq üçün etibarlı VPN xidmətlərindən istifadə edin.
+Sual 1: İnternetə qoşulan cihazların rəqəmsal ev ünvanı necə adlanır?|Mac ünvanı|IP ünvanı (Internet Protocol)|Server adı|B
+Sual 2: Hakerlər sizin IP ünvanınızı bilsələr nəyi təyin edə bilərlər?|Sizin təxmini coğrafi məkanınızı və provayderinizi|Sizin adınızı və soyadınızı|Telefonun batareya faizini|A
+Sual 3: Yalnız istifadəçilərin IP ünvanını gizlicə qeyd etmək üçün qurulan saxta linklərə nə ad verilir?|Phishing|IP Logger (IP qeydedici)|Troyan|B
+Sual 4: İnternetdə real IP ünvanınızı gizlətmək və başqa ölkədəymiş kimi görünmək üçün hansı texnologiyadan istifadə olunur?|Antivirus|VPN (Virtual Private Network)|Brauzer keçidi|B
+Sual 5: IP ünvanı vasitəsilə internet xəttinizi həddindən artıq yükləyib çökdürmək üçün edilən hücum hansıdır?|Fişinq|DDoS hücumu|Sosial mühəndislik|B
+Sual 6: Dostunuz sizə "Mən sənin IP ünvanını tapmışam, evinizə gələcəm" deyirsə bu nə dərəcədə realdır?|Tamamilə realdır, qorxmalıyıq|Yalandır, çünki IP ünvanı dəqiq ev qapısını yox, yalnız ümumi bölgəni/provayderi göstərir|İnternet fırıldağıdır|B
+Sual 7: IP ünvanlarının hansı iki əsas növü (versiyası) var?|IPv1 və IPv2|IPv4 və IPv6|IPx və IPz|B
+Sual 8: Evinizdəki modemi (routeri) söndürüb yandırdıqda IP ünvanınızın dəyişməsi necə adlanır?|Statik IP|Dinamik IP|Gizli IP|B
+Sual 9: Kiməsə IP ünvanınızı birbaşa mesajla göndərmək düzgündürmü?|Bəli, fərqi yoxdur|Xeyr, gərəksiz yerə şəbəkə təhlükəsizliyinizi riskə atmamalısınız|Yalnız oyunlarda olar|B
+Sual 10: İnternet provayderləri (məs: Aztelekom, Baktelecom) sizin IP ünvanınızla hansı saytlara girdiyinizi görə bilirmi?|Xeyr, görə bilməz|Bəli, qanuni olaraq bütün şəbəkə loglarını qeyd edirlər|Yalnız VPN açıq olanda görürlər|B
+===MOVZU===
+12
+Mövzu 12: DDoS Hücumları və Botnetlər
+DDoS hücumu (Dağıdılmış Xidmət İmtinası) bir sayta və ya onlayn oyun serverinə eyni anda milyonlarca saxta sorğu göndərərək onun internet xəttini kilidləmək və çökdürməkdir. Hakerlər bu hücumu etmək üçün minlərlə viruslu telefonu və kompyuteri gizlicə idarə edirlər. Hakerin əmrini gözləyən bu viruslu cihazlar şəbəkəsinə Botnet (Zombi Şəbəkəsi) deyilir.
+Qızıl Qaydalar:
+- Sizin cihazınızın da hakerlərin əlində bir "zombi" botnetə çevrilməməsi üçün antivirus proqramlarından istifadə edin və saxta proqramlar yükləməyin.
+- Böyük şirkətlər və saytlar DDoS hücumlarından qorunmaq üçün xüsusi firewall (təhlükəsizlik divarı) və filtrləmə sistemləri işlədirlər.
+Sual 1: Bir saytı və ya serveri saxta trafiklə yükləyib çökdürmək hücumu necə adlanır?|Phishing|DDoS hücumu|Sosial mühəndislik|B
+Sual 2: Hakerlərin DDoS hücumu etmək üçün idarə etdiyi viruslu cihazlar şəbəkəsinə nə ad verilir?|Botnet (Zombi şəbəkəsi)|Bulud yaddaşı|Antivirus şəbəkəsi|B
+Sual 3: Botnet şəbəkəsinə daxil edilmiş zərərli proqram yoluxmuş kompyuterlər kiber-təhlükəsizlikdə necə adlanır?|Haker kompyuteri|Zombi (Zombie)|Master cihaz|B
+Sual 4: DDoS hücumu zamanı saytda nə baş verir?|Sayt daha sürətli açılır|Sayt həddindən artıq yüklənmədən donur və ya tamamilə qapanır|Saytın rəngi dəyişir|B
+Sual 5: Onlayn oyunda (məs: PUBG, CS) hamının eyni anda oyundan atması və ya "Ping"in qalxması nəyin göstəricisi ola bilər?|Oyunun bitdiyinin|Oyun serverinə DDoS hücumu edildiyinin|Telefonun enerjisinin bitdiyinin|B
+Sual 6: DDoS hücumlarının əsas məqsədi nədir?|Şifrə oğurlamaq|Sistemi və ya xidməti tamamilə dayandırmaq, iflic etmək|Yaddaşı təmizləmək|B
+Sual 7: Şəbəkələri və saytları DDoS hücumlarından qoruyan sistemə nə ad verilir?|Brauzer|Firewall (Təhlükəsizlik divarı) və DDoS qoruması|Oyun modu|B
+Sual 8: Sizin telefonunuz fərqində olmadan bir Botnet şəbəkəsinə qoşulubsa, bunu necə anlaya bilərsiniz?|Telefonun rəngindən|Telefonun durduq yerə həddindən artıq qızmasından, donmasından və internet paketinizi gizlicə bitirməsindən|Heç cür anlamaq olmaz|B
+Sual 9: Botnet virusları cihazlara ən çox hansı yolla yoluxur?|Rəsmi yeniləmələrlə|İnternetdən yüklənən saxta fayllar, cracklər və zərərli linklər vasitəsilə|Telefon zəngi ilə|B
+Sual 10: DDoS hücumu edən hakerləri dərhal tapmaq niyə çətindir?|Hücum tək bir kompüterdən deyil, dünyanın hər yerindəki minlərlə zombi cihazdan eyni anda gəldiyi üçün|Onlar çox sürətli yazdığı üçün|Saytlar icazə verdiyi üçün|A
+===MOVZU===
+13
+Mövzu 13: Malware (Zərərli Proqramlar) Növləri
+Malware (Malicious Software) rəqəmsal cihazlara ziyan vurmaq, şifrələri oğurlamaq və ya sistemi çökdürmək üçün yazılmış hər növ zərərli proqramın ümumi adıdır. Bura Viruslar (özünü çoxaldan), Troyanlar (faydalı proqram kimi gizlənən), Spyware (casuslar) və Adware (telefonu reklama boğan) daxildir. Hakerlər bu proqramları internetdəki saxta yükləmə düymələrinin arxasına gizlədirlər.
+Qızıl Qaydalar:
+- İnternet saytlarında qarşınıza çıxan "Telefonunuzda virus var, dərhal təmizləyin" kimi saxta xəbərdarlıq düymələrinə (Adware tələlərinə) klikləməyin.
+- Sisteminizə mütəmadi olaraq rəsmi və güvənilən bir Antivirus proqramı quraşdırın və tətbiqləri yeniləyin.
+Sual 1: Cihazlara ziyan vurmaq üçün yazılmış bütün zərərli proqramların ümumi adı nədir?|Hardware|Malware (Zərərli proqram)|Firmware|B
+Sual 2: Proqramların içinə gizlənib, özünü yaxşı proqram kimi göstərən malware növü hansıdır?|Troyan (Trojan)|Fidyə virusu|Adware|A
+Sual 3: İnternet saytlarında durmadan saxta reklamlar açan və telefonu donduran malware hansıdır?|Spyware|Adware (Reklam virusu)|Rootkit|B
+Sual 4: Malware proqramları cihazımıza ən çox haradan yoluxur?|Rəsmi proqram yeniləmələrindən|İnternetdəki saxta saytlardan, crack-lərdən və şübhəli yükləmə düymələrindən|Telefon kitabçasından|B
+Sual 5: İnternetdə gəzərkən "Təbrik edirik virus tapıldı, bura klikləyin" yazısı çıxarsa nə etməliyik?|Dərhal klikləməliyik|Yazıya inanmayıb səhifəni dərhal bağlamalıyıq|Telefonu format etməliyik|B
+Sual 6: Bir zərərli proqramın (Malware) kompüterdəki digər fayllara da yoluxub özünü kopyalaması nə adlanır?|Spyware|Kompüter Virusu|Sistem faylı|B
+Sual 7: Antivirus proqramlarının əsas vəzifəsi nədir?|Oyunları sürətləndirmək|Malware növlərini aşkar edib sistemdən təmizləmək|İnternet paketini artırmaq|B
+Sual 8: Telefona yüklənən naməlum bir faylın sonluğu ".apk" və ya ".exe"dirsə və onu tanımırsınızsa nə etməlisiniz?|İşə salıb yoxlamalıyıq|Açmadan dərhal silməliyik, çünki daxilində malware ola bilər|Dostumuza göndərməliyik|B
+Sual 9: Əməliyyat sistemini (Android/iOS/Windows) davamlı yeniləmək bizi malware-dən necə qoruyur?|Telefonun rəngini dəyişir|Hakerlərin istifadə etdiyi sistem boşluqlarını (təhlükəsizlik qüsurlarını) bağlayır|Yaddaşı tamamilə silir|B
+Sual 10: "Keylogger" adlı malware növünün əsas təhlükəsi nədir?|Ekrana şəkil qoymaq|Klaviaturada yazdığınız hər bir hərfi və şifrəni gizlicə qeyd edib hakerə ötürmək|Telefonu söndürmək|B
+===MOVZU===
+14
+Mövzu 14: Brute Force (Şifrə Qurma) Hücumları
+Brute Force hücumu hakerlərin sizin şifrənizi tapmaq üçün xüsusi proqramlar vasitəsilə milyonlarca fərqli kombinasiyanı (məsələn: a1, a2, a3... rza123 və s.) avtomatik olaraq tək-tək sınamasıdır. Əgər şifrəniz sadədirsə (məsələn, adınız və ya ardıcıl rəqəmlər), hakerlərin güclü kompyuterləri bu şifrəni bir neçə saniyəyə tapır.
+Qızıl Qaydalar:
+- Şifrənizi uzun, mürəkkəb (rəqəm, böyük-kiçik hərf və simvollarla) edin. Belə şifrələrin Brute Force ilə qırılması yüzlərlə il çəkə bilər.
+- Giriş səhifələrində "Giriş cəhdlərinin sayını məhdudlaşdıran" və ya "Captcha" (Mən robot deyiləm) qoruması olan sistemlərdən istifadə edin ki, hakerlərin proqramları durmadan şifrə yoxlaya bilməsin.
+Sual 1: Hakerlərin proqramlar vasitəsilə milyonlarla şifrəni tək-tək sınayaraq hesaba sızma hücumuna nə ad verilir?|Phishing|Brute Force (Kora-koranə hücum)|DDoS|B
+Sual 2: Brute Force hücumlarına qarşı ən güclü fərdi müdafiə hansıdır?|Şifrəni tez-tez silmək|Uzun, qarışıq və simvollarla dolu güclü şifrə qoymaq|Profil şəklini gizlətmək|B
+Sual 3: "12345678" və ya "password" kimi şifrələr Brute Force proqramı tərəfindən nə qədər vaxta qırılar?|Bir neçə ilə|Dərhal (milli-saniyələr ərzində)|Heç vaxt qırılmaz|B
+Sual 4: Saytlarda ard-arda 3 və ya 5 dəfə səhv şifrə yazdıqda hesabın müvəqqəti bloklanması nəyi əngəlləyir?|İnternetin kəsilməsini|Brute Force proqramlarının durmadan şifrə sınamasını|Hesabın tam silinməsini|B
+Sual 5: Giriş səhifələrində qarşımıza çıxan "Mən robot deyiləm" (CAPTCHA) testi nə üçün qoyulur?|İstifadəçini yorub oyundan çıxarmaq üçün|Şifrə yoxlayan avtomatik haker botlarının (proqramlarının) qarşısını almaq üçün|Saytın rəngini dəyişmək üçün|B
+Sual 6: Hakerlərin Brute Force hücumunda ən çox istifadə etdiyi, internetə sızmış populyar şifrələrdən ibarət siyahı rəqəmsal dünyada necə adlanır?|Kitabxana|Wordlist (Söz siyahısı / Şifrə lüğəti)|Oyun siyahısı|B
+Sual 7: "Rza2026" şifrəsi niyə Brute Force üçün asan hədəfdir?|Çox uzun olduğu üçün|Daxilində ad və təvəllüd olduğu üçün hakerlərin siyahısında ilk yoxlanılanlardandır|Çətin şifrə olduğu üçün|B
+Sual 8: Eyni güclü şifrəni bütün sosial şəbəkələrdə (Instagram, TikTok, Google) eyni cür istifadə etmək düzgündürmü?|Bəli, yadda saxlamaq asandır|Xeyr, bir hesabınız Brute Force ilə qırılsa, haker həmin şifrə ilə bütün digər hesablarınızı da ələ keçirər|Fərqi yoxdur|B
+Sual 9: Şifrənizdə "@, #, $, !" kimi xüsusi simvolların olması Brute Force hücumunu necə çətinləşdirir?|Proqramı dondurur|Yoxlanılması lazım olan kombinasiya sayını milyardlarla artırır və şifrənin tapılmasını qeyri-mümkün edir|Saytı bağlayır|B
+Sual 10: Şifrəniz Brute Force ilə tapılsa belə, hakerin hesaba girməsini tamamilə əngəlləyən sonuncu müdafiə xətti hansıdır?|Profil adı|İkiaddımlı Doğrulama (2FA - telefona gələn təsdiq kodu)|Yaxşı antivirus|B
+===MOVZU===
+15
+Mövzu 15: Hakerlərin Növləri (Şlyapaların Rəngləri)
+Kiber dünyada hakerlər niyyətlərinə görə 3 əsas qrupa bölünürlər və papaqlarının (şlyapa) rəngləri ilə adlandırılırlar. Ağ Şlyapalılar (White Hat) - yaxşı hakerlərdir, sistemləri qorumaq üçün boşluqları tapıb şirkətlərə kömək edirlər. Qara Şlyapalılar (Black Hat) - pis hakerlərdir, oğurluq və zərər vurmaq üçün sızırlar. Boz Şlyapalılar (Grey Hat) - icazəsiz sızırlar, amma zərər vurmaq yerinə məlumat verib pul istəyirlər.
+Qızıl Qaydalar:
+- Əsl kiber-təhlükəsizlik mütəxəssisi Ağ Şlyapalı (Etik Haker) olmalı, biliklərini yalnız qorunma və kömək məqsədilə istifadə etməlidir.
+- İcazəsiz olaraq hər hansı bir sayta və ya sistemə sızmaq qanunla cinayətdir və cəzası var.
+Sual 1: Sistemləri qorumaq və boşluqları tapıb düzəltmək üçün işləyən yaxşı hakerlərə nə ad verilir?|Qara Şlyapalı (Black Hat)|Ağ Şlyapalı (White Hat)|Boz Şlyapalı (Grey Hat)|B
+Sual 2: Pul oğurlamaq, zərər vurmaq və şifrələri sındırmaq üçün işləyən cinayətkar hakerlər hansıdır?|Ağ Şlyapalı (White Hat)|Qara Şlyapalı (Black Hat)|Boz Şlyapalı (Grey Hat)|B
+Sual 3: Həm yaxşı, həm pis xüsusiyyətləri olan, bəzən icazəsiz sızsa da ziyan vurmayan haker növü hansıdır?|Sistem admini|Boz Şlyapalı (Grey Hat)|Geymer|B
+Sual 4: "Etik Haker" (Ethical Hacker) ifadəsi hansı haker növü üçün istifadə olunur?|Qara Şlyapalı|Ağ Şlyapalı (White Hat)|Heç biri|B
+Sual 5: Bir şirkətin icazəsi olmadan onun sisteminə test məqsədilə də olsa sızmaq düzgündürmü?|Xeyr, icazəsiz hər növ sızma qanunsuz sayılır və cinayətdir|Bəli, əgər ziyan vurmuruqsa olar|Fərqi yoxdur|A
+Sual 6: Şirkətlərin öz sistemlərini test etmək üçün Ağ Şlyapalı hakerlərə pul mükafatı verdiyi rəsmi proqramlar necə adlanır?|Oyun turniri|Bug Bounty (Xəta ovçuluğu)|Sosial mühəndislik|B
+Sual 7: Qara şlyapalı hakerlərin etdiyi hücumların əsas nəticəsi nə olur?|Sistemlər daha təhlükəsiz olur|Məlumatlar oğurlanır, sistemlər çökür və böyük maddi ziyan dəyir|İnternet sürətlənir|B
+Sual 8: Kiber-təhlükəsizlik mütəxəssisi olmaq istəyən gənc hansı rəngi seçməlidir?|Qara Şlyapa|Ağ Şlyapa (Dürüst və Qanuni müdafiəçi)|Fərqi yoxdur|B
+Sual 9: Dövlətlərin və orduların kiber-ordusunda xidmət edən hakerlər hansı qrupa daxildir?|Cinayətkarlar|Ağ Şlyapalı dövlət kiber-mütəxəssisləri|Qara Şlyapalılar|B
+Sual 10: Boz şlyapalıları qara şlyapalılardan ayıran əsas fərq nədir?|Daha sürətli kod yazmaları|Məqsədlərinin sistemə tamamilə zərər vurmaq və ya şifrə oğurlamaq olmaması|Heç bir fərqləri yoxdur|B
+===MOVZU===
+16
+Mövzu 16: OSINT (Açıq Mənbə Kəşfiyyatı)
+OSINT internetdə hər kəsə açıq olan məlumatların qanuni şəkildə toplanması və analiz edilməsidir. Hakerlər və təhlükəsizlik mütəxəssisləri bir hədəf haqqında araşdırma apararkən Google, sosial media profilləri, peyk şəkilləri və rəsmi forumlardakı yazılardan istifadə edirlər. Biz internetdə fərqində olmadan çoxlu iz buraxırıq və OSINT mütəxəssisləri bu izləri birləşdirərək böyük mənzərəni görə bilirlər.
+Qızıl Qaydalar:
+- Sosial şəbəkələrdə evinizin ünvanını, məktəbinizi, mindiyiniz maşının nömrəsini və ya bilet şəkillərinizi paylaşmayın. Bu məlumatlar OSINT ilə sizə qarşı istifadə oluna bilər.
+- İnternetdə paylaşdığınız hər bir məlumatın silinsə belə hardasa arxivlənə biləcəyini unutmayın (Rəqəmsal Ayaq İzi).
+Sual 1: İnternetdə hamıya açıq məlumatları toplayıb analiz etmək metoduna nə ad verilir?|Phishing|OSINT (Open Source Intelligence)|Brute Force|B
+Sual 2: Aşağıdakılardan hansı OSINT üçün istifadə olunan bir açıq mənbə deyil?|Google axtarış motoru|Şəxsin gizli və şifrəli şəxsi gündəliyi|İnstagram profili|B
+Sual 3: İnternetdə paylaşdığımız və arxamızda qoyduğumuz rəqəmsal izlərin hamısına nə ad verilir?|Rəqəmsal Ayaq İzi (Digital Footprint)|Oyun yaddaşı|IP ünvanı|A
+Sual 4: Hakerlər sosial mühəndislik hücumundan əvvəl qurbanı tanımaq üçün ən çox hansı üsuldan istifadə edirlər?|DDoS hücumu|OSINT (Məlumat toplama)|Sistem yeniləməsi|B
+Sual 5: İnternetdə təyyarə biletinin şəklini paylaşmaq niyə təhlükəlidir?|Biletin rəngi bəyənilməyə bilər|Üzərindəki ştrix-kod və məlumatlar vasitəsilə hakerlər sizin adınızdan əməliyyat edə və ya şəxsi məlumatlarınızı oğurlaya bilər|İnternet paketi bitər|B
+Sual 6: Bir şəklin harada çəkildiyini tapmaq üçün şəklin daxilindəki gizli məkan və tarix məlumatlarına (metadata) nə ad verilir?|EXIF datası|Sistem faylı|Log faylı|A
+Sual 7: Köhnə və silinmiş saytların arxivini tapıb keçmiş məlumatları araşdırmaq üçün istifadə olunan məşhur OSINT saytı hansıdır?|Google Play|Wayback Machine (Internet Archive)|YouTube|B
+Sual 8: OSINT metodundan kimlər qanuni və faydalı məqsədlər üçün istifadə edir?|Yalnız Qara şlyapalılar|Kiber-polis, jurnalistlər və Ağ şlyapalı təhlükəsizlik mütəxəssisləri|Heç kim|B
+Sual 9: Özümüzü OSINT kəşfiyyatından qorumaq üçün sosial şəbəkə profillərimizi necə tənzimləməliyik?|Hər kəsə tam açıq saxlamalıyıq|Gizli (Private) etməli və tanımadığımız şəxsləri dostluğa qəbul etməməliyik|Şifrəsiz etməliyik|B
+Sual 10: Google-da xüsusi kodlar (məs: filetype, inurl) yazaraq gizli sənədləri və məlumatları tapmaq sənətinə nə ad verilir?|Google Dorking|Sosial şəbəkə|Brute force|A
+===MOVZU===
+17
+Mövzu 17: DNS və Şəbəkə Təhlükəsizliyi
+DNS internetin telefon kitabçasıdır. Kompyuterlər yalnız rəqəmlərdən ibarət IP ünvanlarını başa düşürlər. Biz brauzerdə "google.com" yazdıqda, DNS serverləri bu adı kompüterin başa düşəcəyi IP ünvanına çevirir. Hakerlər bəzən DNS sisteminə hücum edərək (DNS Spoofing) sizi rəsmi sayt əvəzinə tamamilə saxta və şifrə oğurlayan bir sayta yönləndirə bilərlər.
+Qızıl Qaydalar:
+- Şəbəkə təhlükəsizliyini artırmaq və zərərli saytların qarşısını almaq üçün etibarlı və təhlükəsiz DNS provayderlərindən (məsələn: Cloudflare 1.1.1.1 və ya Google 8.8.8.8) istifadə edin.
+- Saytlara daxil olarkən brauzerin ünvan sətrində saxta yönləndirmə olub-olmadığını mütləq nəzarətdə saxlayın.
+Sual 1: Sayt adlarını (böyük hərflərlə yazılan ünvanları) IP ünvanlarına çevirən sistem necə adlanır?|URL|DNS (Domain Name System)|HTTP|B
+Sual 2: DNS sistemini kiber-təhlükəsizlikdə ən çox nəyə bənzədirlər?|Oyun xəritəsinə|İnternetin telefon kitabçasına|Kompüter yaddaşına|B
+Sual 3: Hakerlərin DNS qeydlərini dəyişdirərək istifadəçiləri saxta saytlara yönləndirməsi hücumu hansıdır?|Phishing|DNS Spoofing (DNS saxtakarlığı)|DDoS|B
+Sual 4: DNS olmasaydı, internetdə bir sayta daxil olmaq üçün nə etməli idik?|Saytın adını yazmalı idik|Saytın uzun IP ünvanını (rəqəmlərini) əzbər yazıb girməli idik|Dostumuza zəng etməli idik|B
+Sual 5: Dünyada ən məşhur və təhlükəsiz pulsuz DNS ünvanlarından biri hansıdır?|0.0.0.0|1.1.1.1 (Cloudflare) / 8.8.8.8 (Google)|9.9.9.9.9|B
+Sual 6: Güvənli DNS istifadə etmək bizi hansı təhlükədən qoruyar?|Telefonun qızmasından|Zərərli və fişinq saytlarına girişin avtomatik bloklanmasından|İnternet paketinin bitməsindən|B
+Sual 7: DNS hücumuna məruz qalan bir istifadəçi rəsmi bank saytının adını yazdıqda nə baş verə bilər?|Sayt açılmaz|Hakerlərin qurduğu tamamilə saxta bank interfeysinə yönlənə bilər|İnternet sürətlənər|B
+Sual 8: Brauzerinizdə "DNS_PROBE_FINISHED_NXDOMAIN" xətası görürsünüzsə, bu nə deməkdir?|Telefon yanıb|Daxil olmaq istədiyiniz domen adı (sayt) DNS tərəfindən tapılmadı və ya mövcud deyil|Oyun bitdi|B
+Sual 9: Evinizdəki modemin daxili sazlamalarında DNS-i dəyişmək mümkündürmü?|Xeyr, qadağandır|Bəli, modemin idarəetmə panelindən təhlükəsiz DNS təyin etmək olar|Yalnız kompyuterdə olar|B
+Sual 10: "Domen Adı" (Domain Name) dedikdə nə nəzərdə tutulur?|Kompüterin adı|Saytların internetdəki adı (məsələn: wikipedia.org)|İnternet provayderi|B
+===MOVZU===
+18
+Mövzu 18: Firewall (Təhlükəsizlik Divarı)
+Firewall (Təhlükəsizlik Divarı) sizin kompüteriniz və ya daxili şəbəkəniz ilə xarici internet dünyası arasında dayanan bir müdafiə qalxanıdır. O, təyin olunmuş təhlükəsizlik qaydalarına əsasən gələn və gedən şəbəkə trafikini davamlı olaraq analiz edir. Əgər hakerlər və ya zərərli bir proqram icazəsiz olaraq kompüterinizə sızmağa çalışarsa, Firewall avtomatik olaraq bu bağlantını bloklayır və təhlükənin qarşısını alır.
+Qızıl Qaydalar:
+- Kompüterinizdə (məsələn, Windows-da) quraşdırılmış daxili Firewall sistemini heç vaxt söndürməyin.
+- Oyun yükləyərkən və ya crack proqram işlədərkən "Firewall-u söndürün" deyən təlimatlara əsla əməl etməyin; bu, hakerlərin qapını açmaq üçün istifadə etdiyi bir hiylədir.
+Sual 1: Şəbəkə trafikini analiz edərək icazəsiz girişləri əngəlləyən müdafiə sisteminə nə ad verilir?|Brauzer|Firewall (Təhlükəsizlik Divarı)|IP ünvanı|B
+Sual 2: Firewall sözünün hərfi mənası nə deməkdir?|Haker divarı|Yanğın divarı (Təhlükəsizlik divarı)|Rəqəmsal qapı|B
+Sual 3: Bir oyun və ya proqram sizdən Firewall-u tamamilə söndürməyi tələb edirsə nə etməlisiniz?|Dərhal söndürməliyəm|Şübhəli yanaşmalı və Firewall-u söndürməməliyəm, çünki bu virus ola bilər|Kompüteri format etməliyəm|B
+Sual 4: Firewall şəbəkədə nəyə əsasən qərar verir?|İnternetin sürətinə|Əvvəlcədən təyin olunmuş təhlükəsizlik qaydalarına (Filtrlərə)|Kompüterin markasına|B
+Sual 5: Firewall həm proqram (software), həm də fiziki cihaz (hardware) şəklində ola bilərmi?|Xeyr, yalnız proqram olur|Bəli, həm kompüter proqramı, həm də böyük şirkətlər üçün xüsusi fiziki cihaz şəklində olur|Yalnız oyunlarda olur|B
+Sual 6: Firewall-un əsas vəzifələrindən biri aşağıdakılardan hansıdır?|Şəkillərin keyfiyyətini artırmaq|Kənardan gələn şübhəli sızma cəhdlərini və icazəsiz bağlantıları bloklamaq|Kompüterin yaddaşını təmizləmək|B
+Sual 7: Antivirus proqramı ilə Firewall arasındakı əsas fərq nədir?|Heç bir fərqi yoxdur|Antivirus cihazın daxilindəki faylları/virusları yoxlayır, Firewall isə internetdən gələn şəbəkə keçidlərini idarə edir|Antivirus daha bahalıdır|B
+Sual 8: Evimizdəki internet modemlərinin (router) daxilində Firewall qoruması olurmu?|Xeyr, olmur|Bəli, əksər müasir modemlərin daxilində ilkin şəbəkə qoruması üçün daxili Firewall olur|Yalnız pullu modemlərdə olur|B
+Sual 9: Firewall bir proqramın internetə məlumat ötürməsini tamamilə əngəlləyə bilərmi?|Xeyr, proqramlara qarışa bilməz|Bəli, istədiyiniz proqramın internetə çıxışını Firewall vasitəsilə qapada bilərsiniz|Yalnız VPN olanda bloklayır|B
+Sual 10: Şirkət şəbəkəsinə edilən DDoS hücumlarının ilkin filtrlənməsində hansı sistem mühüm rol oynayır?|Ekran kilidi|Güclü idarə olunan Firewall sistemləri|Musiqi pleyeri|B
+===MOVZU===
+19
+Mövzu 19: NAT (Şəbəkə Ünvan Tərcüməçisi) və Qorunma
+NAT evinizdəki və ya ofisinizdəki daxili (Private) IP ünvanlarını tək bir xarici (Public) IP ünvanına çevirən texnologiyadır. Evdəki modem (router) NAT funksiyası sayəsində telefonunuzun əsl şəbəkə kimliyini internet dünyasından gizlədir. Hakerlər kənardan evinizə hücum etmək istədikdə cihazlarınızı birbaşa görə bilmirlər, yalnız modemin xarici IP ünvanını görürlər. Bu, daxili şəbəkə üçün təbii bir təhlükəsizlik qalxanı yaradır.
+Qızıl Qaydalar:
+- Modem sazlamalarında NAT funksiyasının aktiv olduğundan əmin olun.
+- Şəbəkə portlarını (Port Forwarding) məcburi olmadıqca xarici internetə açmayın, çünki bu, NAT-ın yaratdığı təhlükəsizlik divarını dəlmək deməkdir.
+Sual 1: Daxili IP ünvanlarını tək bir xarici IP ünvanına çevirən və cihazları gizlədən sistem hansıdır?|DNS|NAT (Network Address Translation)|HTTP|B
+Sual 2: NAT funksiyasını evimizdə adətən hansı cihaz yerinə yetirir?|Kompüter ekranı|Modem (Router)|Klaviatura|B
+Sual 3: NAT texnologiyasının kiber-təhlükəsizlik baxımından ən böyük faydası nədir?|İnterneti pulsuz etməsi|Daxili cihazların IP ünvanlarını gizlədərək hakerlərin birbaşa sızmasını əngəlləməsi|Telefonun yaddaşını artırması|B
+Sual 4: NAT olmasaydı, internet dünyasında hansı böyük problem yaranardı?|Şəkillər yüklənməzdi|Dünyadakı IPv4 ünvanları çox sürətlə tükənərdi və hər cihaza IP çatmazdı|Oyunlar açılmazdı|B
+Sual 5: Evinizdəki Wi-Fi şəbəkəsinə qoşulan 5 fərqli telefonun internetdə görünən xarici (Public) IP ünvanı necə olur?|Hamısının fərqli olur|Hamısının xarici IP ünvanı eyni (modemin IP-si) olur|IP ünvanları olmur|B
+Sual 6: NAT tərəfindən qorunan daxili şəbəkədə olan IP ünvanları (məs: 192.168.1.5) necə adlanır?|Xarici (Public) IP|Daxili / Şəxsi (Private) IP|Qlobal IP|B
+Sual 7: Hakerlər internet üzərindən birbaşa sizin daxili "192.168.x.x" IP ünvanınıza qoşula bilərlərmi?|Bəli, çox asanlıqla|Xeyr, çünki NAT bu ünvanı xarici internetə qapalı saxlayır|Yalnız oyunlarda olar|B
+Sual 8: Modemdə xüsusi bir portu xarici internetə açmaq (Port Forwarding) nə üçün risklidir?|İnterneti zəiflədir|NAT qorumasını yan keçərək hakerlərə həmin cihazın qapısını açdığı üçün|Telefonu format etdiyi üçün|B
+Sual 9: NAT-ın əsas növlərindən biri aşağıdakılardan hansıdır?|Dinamik NAT, Statik NAT və PAT|Xətti NAT|Heç biri|A
+Sual 10: NAT funksiyası söndürülərsə daxili şəbəkədə nə baş verər?|İnternet sürətlənər|Cihazlar xarici təhlükələrə qarşı tamamilə müdafiəsiz və açıq vəziyyətə gələr|Telefonun batareyası tez bitər|B
+===MOVZU===
+20
+Mövzu 20: Süni İntellekt və Deepfake Təhlükələri
+Süni İntellekt (AI) inkişaf etdikcə, hakerlər ondan zərərli məqsədlər üçün də istifadə etməyə başlayıblar. Bunun ən təhlükəli nümunələrindən biri Deepfake texnologiyasıdır. Deepfake vasitəsilə bir insanın üzü və ya səsi süni intellektlə kopyalanaraq tamamilə saxta videolar və ya səs yazıları hazırlana bilər. Hakerlər tanınmış şəxslərin və ya yaxınlarınızın saxta videosunu hazırlayıb sizdən pul qoparmağa çalışa bilərlər.
+Qızıl Qaydalar:
+- İnternetdə qarşınıza çıxan hər görüntülü və ya səsli mesaja kor-koranə inanmayın. Xüsusilə təcili pul və ya şifrə istənilirsə, mütləq şübhə ilə yanaşın.
+- Deepfake videolarını tanımaq üçün videodakı insanın göz qırpma hərəkətlərinə, dodaq və səs uyğunsuzluğuna, eləcə də arxa fonun qəribə bulandıqlarına diqqət edin.
+Sual 1: Süni intellekt vasitəsilə bir insanın saxta görüntüsünü və ya səsini realmış kimi hazırlamaq texnologiyasına nə ad verilir?|Phishing|Deepfake|OSINT|B
+Sual 2: Bir Deepfake videosunu saxta olduğunu göstərən əsas detallardan biri hansıdır?|Videonun uzun olması|Göz qırpmalarının qeyri-təbii olması, dodaq hərəkətlərinin səs ilə tam üst-üstə düşməməsi|Videonun rəngli olması|B
+Sual 3: Süni intellekt hakerlər tərəfindən başqa hansı zərərli məqsədlə istifadə oluna bilər?|İnternet xətlərini təmir etmək üçün|Daha inandırıcı fişinq (phishing) məktubları yazmaq və sürətli zərərli kodlar (malware) hazırlamaq üçün|Telefonun ekranını silmək üçün|B
+Sual 4: Yaxın dostunuzun görüntüsü ilə gələn bir videoda sizdən təcili kart məlumatları istənilirsə ilk nə etməlisiniz?|Dərhal göndərməliyəm|Ona başqa bir rabitə kanalı ilə zəng edib bunun real olub-olmadığını və ya Deepfake tələsi olub-olmadığını yoxlamalıyam|Videonu hamıya yaymalıyam|B
+Sual 5: İnternetdə öz səs və video qeydlərimizi kütləvi və açıq şəkildə paylaşmaq hansı riski yaradır?|Telefonun yaddaşını doldurur|Hakerlərin bu materiallardan istifadə edərək bizim Deepfake modelimizi hazırlamasına zəmin yaradır|İnterneti kəsir|B
+Sual 6: Aşağıdakılardan hansı Deepfake texnologiyasının əsas hədəflərindən biridir?|Kompüterləri sürətləndirmək|İnsanları saxta səs və görüntülərlə aldadıb etibar qazanmaq və fırıldaqçılıq etmək|Şəkillərin ölçüsünü kiçiltmək|B
+Sual 7: Süni intellekt əsaslı antivirusların ən böyük üstünlüyü nədir?|Daha ucuz olmaları|Daha əvvəl heç görünməmiş yeni və mürəkkəb virusları (Zero-day) davranışlarına görə analiz edib bloklaya bilmələri|Oyunları avtomatik udmaları|B
+Sual 8: Sosial şəbəkədə məşhur bir siyasətçinin və ya biznesmenin sizə böyük pullar vəd etdiyi videosunu görsəniz ilk olaraq nə düşünməlisiniz?|Dərhal inanmalıyam|Bunun bir Deepfake videosu və ya kiber-fırıldaqçılıq olduğunu düşünüb rəsmi mənbələri yoxlamalıyam|Telefonu söndürməliyəm|B
+Sual 9: Süni intellekt botlarına (məsələn: ChatGPT və s.) şirkət və ya şəxsi şifrələrimizi daxil etmək düzgündürmü?|Bəli, onlar təhlükəsizdir|Xeyr, çünki bu məlumatlar süni intellektin verilənlər bazasına düşə bilər və gizlilik riskinə səbəb olar|Yalnız oyun şifrələrini yazmaq olar|B
+Sual 10: Deepfake fırıldaqçılığından qorunmağın ən əsas insani yolu hansıdır?|Hər şeyə dərhal inanmaq|Soyuqqanlı olmaq, şübhə etmək və məlumatı fərqli mənbələrdən təsdiqləmək|İnternetdən ümumiyyətlə çıxmaq|B
+===MOVZU===
+21
+Mövzu 21: Wi-Fi Təhlükəsizliyi və Saxta Şəbəkələr
+Açıq və şifrəsiz Wi-Fi şəbəkələri (məsələn, kafelərdə, parklarda olan pulsuz internet) kiber-təhlükəsizlik baxımından ən riskli yerlərdən biridir. Hakerlər həmin məkanda rəsmi internet adının eynisini daşıyan saxta bir Wi-Fi nöqtəsi yarada bilərlər. Bu hücuma "Evil Twin" (Şər Əkiz) hücumu deyilir. Siz səhvən hakerin Wi-Fi şəbəkəsinə qoşulduğunuz an, o, sizin daxil olduğunuz saytları, yazdığınız şifrələri gizlicə izləyə bilər.
+Qızıl Qaydalar:
+- İctimai yerlərdə şifrəsiz Wi-Fi şəbəkələrinə qoşulduqda heç vaxt bank hesablarınıza girməyin və vacib şifrələrinizi yazmayın.
+- Əgər belə bir şəbəkədən məcburi istifadə etməli olsanız, internet trafikinizi şifrələmək üçün mütləq güvənli bir VPN proqramını aktiv edin.
+Sual 1: Hakerlərin mövcud bir Wi-Fi şəbəkəsinin eyni adında saxta şəbəkə yaradaraq insanları tələyə salması hücumu necə adlanır?|DDoS hücumu|Evil Twin (Şər Əkiz) hücumu|Brute Force|B
+Sual 2: Pulsuz və şifrəsiz ictimai Wi-Fi şəbəkələrinə qoşularkən ən böyük risk nədir?|Telefonun ekranının qırılması|Bütün internet hərəkətlərimizin və şifrələrimizin haker tərəfindən izlənməsi və oğurlanması|İnternetin çox sürətli olması|B
+Sual 3: İctimai bir Wi-Fi şəbəkəsindən istifadə etmək məcburi olduqda, məlumatlarımızı şifrələyib hakerlərdən gizlədən proqram hansıdır?|Oyun emulyatoru|VPN (Virtual Private Network)|Antivirus skaneri|B
+Sual 4: Evinizdəki Wi-Fi şəbəkəsini qorumaq üçün təhlükəsizlik şifrələmə protokolu ən azı hansı versiya olmalıdır?|WEP|WPA2 və ya WPA3|WPS1|B
+Sual 5: Modemin üzərində olan və tək bir düymə ilə şifrəsiz qoşulmağa icazə verən, lakin hakerlər üçün asan hədəf olan funksiya hansıdır?|NAT|WPS (Wi-Fi Protected Setup)|DNS|B
+Sual 6: Bir kafenın Wi-Fi siyahısında eyni adda iki şəbəkə görsəniz (məs: "Kafe_Free" və "Kafe_Free") nə etməlisiniz?|Hər ikisinə qoşulmalıyam|Şübhələnməli, işçilərdən dəqiq şəbəkəni soruşmalı və saxta ola biləcəyini düşünüb qoşulmamalıyam|Telefonu söndürməliyəm|B
+Sual 7: Ev Wi-Fi şifrənizi qonşulara və ya tanımadığınız şəxslərə vermək hansı kiber riski yaradır?|Modemin rəngi dəyişər|Həmin şəxslər sizin şəbəkə daxilindəki digər cihazlarınıza sızmağa cəhd edə və ya sizin adınızdan qanunsuz işlər görə bilər|Heç bir risk yoxdur|B
+Sual 8: "Man-in-the-Middle" (Ortadakı adam) hücumu ictimai Wi-Fi şəbəkələrində necə baş verir?|Haker sizinlə telefon arasında fiziki olaraq dayanır|Haker şəbəkəyə sızaraq sizinlə internet saytı arasındakı bütün məlumat axınını gizlicə öz üzərindən keçirib oxuyur|Saytları tam qapadaraq|B
+Sual 9: Ev modeminizi hakerlərdən qorumaq üçün edilməli olan ilk vacib addım hansıdır?|Modemin yerini dəyişmək|Modemin zavod tərəfindən qoyulmuş standart admin şifrəsini çətin bir şifrə ilə dəyişdirmək|İnterneti söndürmək|B
+Sual 10: Telefonunuzun ətrafdakı hər açıq Wi-Fi şəbəkəsinə avtomatik qoşulma funksiyası (Auto-Connect) açıq qalmalıdır?|Bəli, internet pulsuz olar|Xeyr, bu funksiya bağlanmalıdır, çünki telefon fərqində olmadan hakerlərin qurduğu zərərli bir şəbəkəyə qoşula bilər|Fərqi yoxdur|B
+===MOVZU===
+22
+Mövzu 22: Şəbəkə Portları və Port Skanlama
+Portlar kompüter və ya server üzərində fərqli rəqəmsal xidmətlərin (məsələn, veb saytlar, fayl ötürülməsi, e-mail) internetlə əlaqə saxlaması üçün ayrılmış virtual qapılardır. Cəmi 65535 ədəd port mövcuddur. Hakerlər xüsusi proqramlarla (məsələn, Nmap) hədəf kompüterdə hansı qapıların (portların) açıq olduğunu yoxlayırlar; buna "Port Skanlama" (Port Scanning) deyilir. Müdafiəsiz və açıq buraxılmış bir port hakerin sistemə sızması üçün birbaşa giriş nöqtəsidir.
+Qızıl Qaydalar:
+- İstifadə olunmayan və lazımsız bütün portlar sistem inzibatçısı və ya Firewall tərəfindən mütləq qapalı saxlanmalıdır.
+- Şəbəkədəki portların vəziyyətini və təhlükəsizliyini mütəmadi olaraq yoxlamaq üçün qanuni port skanlaması testləri aparılmalıdır.
+Sual 1: Kompüterdə fərqli şəbəkə xidmətlərinin internetlə əlaqə qurması üçün ayrılmış rəqəmsal qapılara nə ad verilir?|IP ünvanı|Port (Şəbəkə portu)|Server|B
+Sual 2: Bir kompüter və ya server üzərində cəmi neçə ədəd port (virtual qapı) mövcuddur?|1000|65535|1024|B
+Sual 3: Hakerlərin sistemdəki açıq qapıları tapmaq üçün etdiyi araşdırmaya nə ad verilir?|DDoS hücumu|Port Skanlama (Port Scanning)|Sosial mühəndislik|B
+Sual 4: İnternetdə təhlükəsiz veb saytların (HTTPS) standart olaraq istifadə etdiyi port nömrəsi hansıdır?|21|443|80|B
+Sual 5: Fayl ötürülməsi (FTP) üçün standart olaraq hansı port nömrəsindən istifadə olunur?|21|80|443|A
+Sual 6: Şəbəkə təhlükəsizliyində istifadə olunmayan portların vəziyyəti necə olmalıdır?|Həmişə açıq|Hakerlərin sızmasını əngəlləmək üçün tamamilə qapalı (Closed/Filtered)|Fərqi yoxdur|B
+Sual 7: Kiber-təhlükəsizlik mütəxəssislərinin və hakerlərin portları skan etmək üçün ən çox işlətdiyi məşhur qanuni alət hansıdır?|Photoshop|Nmap|Excel|B
+Sual 8: Standart veb saytların (şifresiz HTTP) istifadə etdiyi və hakerlər tərəfindən asanlıqla izlənə bilən port hansıdır?|443|80|22|B
+Sual 9: Portların təhlükəsizliyini təmin etmək və icazəsiz port bağlantılarını bloklamaq üçün hansı sistemdən istifadə olunur?|Brauzer|Firewall (Təhlükəsizlik divarı)|Antivirus|B
+Sual 10: Uzaqdan kompüterə idarəetmə bağlantısı quran (SSH) və mütləq güclü şifrələnməli olan port nömrəsi hansıdır?|80|22|443|B
+===MOVZU===
+23
+Mövzu 23: Şəbəkə Paketləri və Paket İzləmə
+İnternetdə ötürülən hər bir məlumat (məsələn, göndərdiyiniz bir şəkil və ya mesaj) bütöv halda hərəkət etmir. Şəbəkə protokolları bu məlumatı "Paket" (Packet) adı verilən kiçik hissələrə bölür. Hər bir paketin üzərində göndərən və alan tərəfin IP ünvanları, port nömrələri və paketin sırası qeyd olunur. Hakerlər xüsusi proqramlarla (məsələn, Wireshark) bu paketləri yolda gizlicə tutub oxuya bilərlər; buna "Paket Sniffing" (Paket İzləmə/Qoxulama) deyilir.
+Qızıl Qaydalar:
+- Paketlərin hakerlər tərəfindən oxunmasının qarşısını almaq üçün internetdə həmişə şifrəli protokollardan (HTTP əvəzinə HTTPS) istifadə edin.
+- HTTPS protokolu paketlərin daxilindəki məlumatları qarışdıraraq şifrələyir; haker paketi tutsa belə, daxilindəki şifrəni və ya mesajı oxuya bilmir.
+Sual 1: İnternetdə ötürülən məlumatların bölündüyü kiçik rəqəmsal hissələrə nə ad verilir?|IP bloku|Şəbəkə paketi (Packet)|Domen|B
+Sual 2: Hakerlərin şəbəkədə hərəkət edən paketləri gizlicə tutub analiz etməsi hücumu necə adlanır?|DDoS|Packet Sniffing (Paket izləmə)|Brute Force|B
+Sual 3: Şəbəkə paketlərini tutmaq, izləmək və analiz etmək üçün istifadə olunan ən məşhur qanuni kiber-təhlükəsizlik aləti hansıdır?|Wireshark|Nmap|Photoshop|A
+Sual 4: Bir şəbəkə paketinin üzərində mütləq hansı məlumatlar olmalıdır?|Gönderənin və alanın IP ünvanları, port nömrələri və paket sırası|İstifadəçinin adı və soyadı|Kompüterin qiyməti|A
+Sual 5: Haker şəbəkə paketlərini tutsa belə, HTTPS protokolu sayəsində daxilindəki məlumatı niyə oxuya bilmir?|Məlumatlar tamamilə silindiyi üçün|Məlumatlar güclü şəkildə şifrələnib qarışdırıldığı üçün|Paketlər çox sürətli getdiyi üçün|B
+Sual 6: Şifrlənməmiş (düz mətn halında olan) paketləri ötürən və hakerlər üçün çox asan hədəf olan köhnə protokol hansıdır?|HTTPS|HTTP|VPN|B
+Sual 7: Göndərilən paketlər hədəfə çatdıqda onların düzgün sırada yenidən birləşməsini hansı əsas protokol təmin edir?|IP|TCP (Transmission Control Protocol)|DNS|B
+Sual 8: E-mail göndərərkən məlumatların paketlərə bölünüb internetdə hərəkət etməsi prosesinə şəbəkədə nə ad verilir?|Formatlaşdırma|Enkapsulyasiya (Encapsulation)|Skanlama|B
+Sual 9: Wi-Fi şəbəkəsində "Promiscuous Mode" rejimini açan bir haker nə edə bilər?|İnterneti kəsə bilər|Havadakı və ətrafdakı bütün cihazların şəbəkə paketlərini gizlicə tutub izləyə bilər|Modemi yandıra bilər|B
+Sual 10: Şəbəkə paketlərinin təhlükəsiz şəkildə daşınmasını təmin etmək üçün fərdi olaraq hansı texnologiyadan istifadə etmək olar?|Ekran kartı|VPN (Bütün paketləri tunel daxilində şifrələyir)|Daha böyük monitor|B
+===MOVZU===
+24
+Mövzu 24: Pentest (Sızma Testləri) və Mərhələləri
+Pentest (Penetration Testing / Sızma Testi) bir sistemin təhlükəsizliyini yoxlamaq üçün icazəli və qanuni şəkildə edilən simulyasiya hücumudur. Pentest mütəxəssisləri (Pentesterlər) eynilə real hakerlər kimi hərəkət edərək sistemin boşluqlarını tapmağa çalışırlar. Tapılan bütün boşluqlar hesabat halına salınaraq şirkətə təqdim olunur ki, kiber-cinayətkarlar sızmadan əvvəl həmin boşluqlar bağlansın.
+Qızıl Qaydalar:
+- Pentest etməzdən əvvəl mütləq hədəf şirkətlə rəsmi, qanuni müqavilə (icazə sənədi) imzalanmalıdır; icazəsiz pentest etmək cinayətdir.
+- Pentest prosesi 5 əsas mərhələdən ibarətdir: Kəşfiyyat (Məlumat toplama), Skanlama, Giriş əldə etmə (Sızma), Girişi saxlama və Hesabatlama.
+Sual 1: Sistemlərin təhlükəsizliyini yoxlamaq üçün qanuni və icazəli şəkildə edilən simulyasiya hücumuna nə ad verilir?|DDoS|Pentest (Sızma testi)|Brute Force|B
+Sual 2: Sızma testlərini (Pentest) həyata keçirən təhlükəsizlik mütəxəssislərinə nə ad verilir?|Black Hat haker|Pentester (Sızma testi mütəxəssisi)|Sistem administratoru|B
+Sual 3: Pentest prosesinin ən son və ən vacib mərhələsi hansıdır?|Skanlama etmək|Hesabat hazırlamaq (Tapılan boşluqları və həlli yollarını şirkətə təqdim etmək)|Şifrə sındırmaq|B
+Sual 4: "Black Box" (Qara qutu) pentest növünün əsas xüsusiyyəti nədir?|Pentesterə sistem haqqında əvvəlcədən heç bir məlumat verilmir, o tam bir kənar haker kimi davranır|Sistemin bütün kodları pentesterə verilir|Test yalnız telefonlarda edilir|A
+Sual 5: Pentesterə sistemin daxili strukturu, kodları və İP ünvanları haqqında tam məlumatın verildiyi test növü hansıdır?|Black Box|White Box (Ağ qutu)|Grey Box|B
+Sual 6: Rəsmi icazə və müqavilə olmadan bir sayta pentest (sızma testi) etmək necə qiymətləndirilir?|Yaxşı hərəkətdir, kömək edirik|Tamamilə qanunsuzdur və hakerlik cinayəti sayılır|Fərqi yoxdur|B
+Sual 7: Pentestin ilk mərhələsi olan və hədəf haqqında məlumat toplamağı ifadə edən mərhələ hansıdır?|Hesabatlama|Kəşfiyyat (Reconnaissance)|Sızma|B
+Sual 8: Pentest zamanı tapılan sistem zəifliklərinə və boşluqlarına kiber-təhlükəsizlikdə nə ad verilir?|Update|Vulnerability (Boşluq / Zəiflik)|Log|B
+Sual 9: Şirkətlər niyə mütəmadi olaraq sistemlərinə pentest etdirməlidirlər?|Kompüterləri yeniləmək üçün|Hakerlərdən əvvəl öz zəif tərəflərini tapıb təhlükəsizliyi gücləndirmək üçün|İnterneti sürətləndirmək üçün|B
+Sual 10: Pentest mütəxəssisləri hansı haker qrupuna daxildir?|Qara Şlyapalılar|Ağ Şlyapalılar (Etik Hakerlər)|Boz Şlyapalılar|B
+===MOVZU===
+25
+Mövzu 25: Red Team və Blue Team (Kiber Qarşıdurma)
+Kiber-təhlükəsizlikdə şirkətləri qorumaq üçün iki əsas peşəkar komanda fəaliyyət göstərir. Red Team (Qırmızı Komanda) hücum tərəfidir; onlar tam bir haker kimi davranaraq şirkətin sistemlərinə sızmağa və müdafiəni yarmağa çalışırlar. Blue Team (Mavi Komanda) isə müdafiə tərəfidir; onlar hücumları dərhal təsbit edir, bloklayır və sistemi qoruyurlar. Hər iki komandanın birgə işləməsi şirkətin təhlükəsizliyini ən üst səviyyəyə qaldırır.
+Qızıl Qaydalar:
+- Güclü bir kiber-müdafiə üçün həm hücum metodlarını (Red Team), həm də müdafiə taktikalarını (Blue Team) eyni daxildə bilmək lazımdır.
+- Red Team və Blue Team proqramları simulyasiya xarakterlidir və bütün əməliyyatlar şirkətin rəsmi icazəsi daxilində aparılır.
+Sual 1: Kiber-təhlükəsizlik testlərində haker kimi davranaraq sistemlərə sızmağa çalışan hücum komandası hansıdır?|Blue Team|Red Team (Qırmızı Komanda)|Sistem adminləri|B
+Sual 2: Şirkətin sistemlərini qoruyan, hücumları vaxtında aşkar edib bloklayan müdafiə komandası necə adlanır?|Red Team|Blue Team (Mavi Komanda)|Haker qrupu|B
+Sual 3: Red Team və Blue Team komandalarının birlikdə koordinasiyalı şəkildə işlədiyi ortaq komanda kiber-dünyada necə adlanır?|Green Team|Purple Team (Bənövşəyi Komanda)|Orange Team|B
+Sual 4: Aşağıdakılardan hansı Red Team komandasının istifadə etdiyi metodlardan biridir?|Firewall qurmaq|Sızma testləri (Pentest) və sosial mühəndislik hücumları simulyasiya etmək|Log fayllarını analiz etmək|B
+Sual 5: Blue Team komandasının əsas vəzifəsi aşağıdakılardan hansıdır?|Saytları çökdürmək|Hücumları real vaxt rejimində izləmək, sistem boşluqlarını bağlamaq və müdafiəni gücləndirmək|Şifrə siyahısı hazırlamaq|B
+Sual 6: Red Team-in şirkətə etdiyi simulyasiya hücumları real kiber-cinayətkarlıqdan nə ilə fərqlənir?|Daha yavaş olmaqla|Tam qanuni və icazəli olması, məqsədin zərər vurmaq yox, boşluqları tapmaq olması ilə|Heç bir fərqi yoxdur|B
+Sual 7: Müdafiə tərəfində (Blue Team) işləyən mütəxəssislər hücumları anlamaq və izləmək üçün ən çox hansı mərkəzi sistemdən (SIEM) istifadə edirlər?|Photoshop|Şəbəkə loglarını və təhlükəsizlik bildirişlərini toplayıb analiz edən sistemlərdən|Oyun mühərrikindən|B
+Sual 8: "Red Team" komandası sistemə sızmağı bacardıqda növbəti addım olaraq nə edir?|Məlumatları internetdə satır|Sızma yolunu və tapdığı boşluğu Blue Team-in düzəltməsi üçün hesata daxil edir|Kompüterləri oğurlayır|B
+Sual 9: Kiber-təhlükəsizlik mütəxəssisi olmaq istəyən şəxs mütləq hansı komandanın taktikalarını öyrənməlidir?|Yalnız Red Team|Həm Red Team (hücum), həm də Blue Team (müdafiə) prinsiplərini bilməlidir|Heç birini|B
+Sual 10: Şirkətin rəhbərliyindən gizli olaraq, müdafiəçilərin (Blue Team) hazırlığını yoxlamaq üçün qəfildən edilən Red Team hücum sınaqları necə adlanır?|Format|Kor test və ya Qırmızı Həyəcan simulyasiyası|Yenilənmə|B
+===MOVZU===
+26
+Mövzu 26: ARP Protokolu və ARP Saxtakarlığı
+ARP (Address Resolution Protocol) yerli şəbəkə daxilində (məsələn, evdəki Wi-Fi-da) cihazların IP ünvanlarını onların fiziki MAC ünvanları ilə birləşdirən protokoldur. Modem hansı cihazın harada olduğunu ARP cədvəli vasitəsilə bilir. Hakerlər şəbəkəyə daxil olaraq modetə və digər telefonlara saxta ARP mesajları göndərə bilərlər (ARP Spoofing). Bu zaman haker şəbəkədə özünü modem kimi göstərir və sizin bütün internet trafikiniz saytlara getməzdən əvvəl hakerin kompüterindən keçir.
+Qızıl Qaydalar:
+- ARP hücumlarından qorunmaq üçün ictimai şəbəkələrdə həmişə VPN istifadə edin; VPN trafikinizi şifrələdiyi üçün haker ARP-ni sındırsa belə məlumatları oxuya bilmir.
+- Şəbəkə inzibatçıları ARP saxtakarlığının qarşısını almaq üçün dinamik ARP yoxlaması (DAI) və ya statik ARP qeydlərindən istifadə edirlər.
+Sual 1: Yerli şəbəkədə IP ünvanlarını cihazların fiziki MAC ünvanları ilə birləşdirən protokol hansıdır?|DNS|ARP (Address Resolution Protocol)|HTTP|B
+Sual 2: Hakerlərin saxta ARP mesajları ilə özlərini modem kimi göstərib trafiki ələ keçirməsi hücumu necə adlanır?|DDoS|ARP Spoofing (ARP Saxtakarlığı)|Brute Force|B
+Sual 3: ARP Spoofing hücumu kiber-təhlükəsizlikdə hansı ümumi hücum növünə daxildir?|Fişinq|MitM (Man-in-the-Middle / Ortadakı Adam hücumu)|Malware|B
+Sual 4: Cihazların IP və MAC ünvanlarının cütlərini yadda saxlayan daxili siyahı şəbəkədə necə adlanır?|ARP Cədvəli (ARP Cache)|Oyun siyahısı|Sistem loqu|A
+Sual 5: Haker evinizin Wi-Fi şəbəkəsində ARP Spoofing hücumu edərsə nəyi bacarar?|Sizin modemi fiziki olaraq sındırar|Şifrəsiz saytlara daxil edərkən yazdığınız bütün məlumatları gizlicə oxuya bilər|Telefonun yaddaşını silər|B
+Sual 6: ARP protokolu internetdəki uzaq saytlar üçün yox, hansı növ şəbəkələr üçün işləyir?|Qlobal internet üçün|Yalnız Yerli Şəbəkə (LAN / Wi-Fi daxili) üçün|Heç biri|B
+Sual 7: Kompüterdə ARP cədvəlinə baxmaq və onu yoxlamaq üçün əmr sətrində (CMD) hansı kod yazılır?|ipconfig|arp -a|ping|B
+Sual 8: ARP saxtakarlığı hücumu zamanı haker hədəf cihaza öz şəxsi MAC ünvanını hansı xidmətin ünvanı kimi təqdim edir?|Saytın ünvanı|Şəbəkə şlüzünün (Modemin/Routerin) ünvanı|Antivirusun ünvanı|B
+Sual 9: Wi-Fi şəbəkəsində bir hakerin ARP hücumu etməsini tamamilə əngəlləyən switch (paylayıcı) təhlükəsizlik funksiyası hansıdır?|WPS|DAI (Dynamic ARP Inspection)|NAT|B
+Sual 10: Evinizdəki kompüterdə ARP cədvəlinə əl ilə sabit qeyd daxil edərək hücumların qarşısını almaq üsulu necə adlanır?|Dinamik ARP|Statik ARP qeydi|Gizli ARP|B
+===MOVZU===
+27
+Mövzu 27: MAC Ünvanı və MAC Saxtakarlığı
+MAC ünvanı (Media Access Control) internetə qoşula bilən hər bir cihazın şəbəkə kartına zavod tərəfindən yazılan, dünyada bənzəri olmayan fiziki ünvanıdır. IP ünvanı cihazın yerləşdiyi şəbəkəyə görə dəyişdiyi halda, MAC ünvanı heç vaxt dəyişmir (cihazın rəqəmsal barmaq izidir). O, 12 simvoldan ibarət onaltılıq (Hexadecimal) sistemdə yazılır (məs: 00:1A:3B:11:22:33). Hakerlər şəbəkədəki filtrləri yan keçmək üçün öz MAC ünvanlarını gizlədib saxtalaşdıra bilərlər (MAC Spoofing).
+Qızıl Qaydalar:
+- Ev Wi-Fi şəbəkənizi qorumaq üçün modemdə "MAC Filtrləmə" funksiyasını açaraq yalnız öz cihazlarınızın MAC ünvanlarına icazə verə bilərsiniz.
+- Müasir telefonlarda (Android/iOS) ictimai Wi-Fi şəbəkələrinə qoşularkən təhlükəsizlik üçün "Təsadüfi MAC ünvanı" (Random MAC) funksiyasından istifadə edin ki, hakerlər sizi izləyə bilməsin.
+Sual 1: Cihazların şəbəkə kartına zavodda yazılan və heç vaxt dəyişməyən fiziki ünvanı necə adlanır?|IP ünvanı|MAC ünvanı (Media Access Control)|Port nömrəsi|B
+Sual 2: MAC ünvanı cəmi neçə bitdən ibarətdir və hansı say sistemində yazılır?|32 bit, Onluq sistem|48 bit, Onaltılıq (Hexadecimal) sistem|64 bit, İkilik sistem|B
+Sual 3: Hakerlərin şəbəkə qorumalarını aldatmaq üçün öz fiziki ünvanlarını dəyişdirməsi hücumu necə adlanır?|DDoS|MAC Spoofing (MAC Saxtakarlığı)|Phishing|B
+Sual 4: Modemdə yalnız təyin olunmuş MAC ünvanlarının internetə girməsinə icazə verən təhlükəsizlik funksiyası hansıdır?|NAT|MAC Filtrləmə (MAC Filtering)|WPS düyməsi|B
+Sual 5: IP ünvanı ilə MAC ünvanı arasındakı əsas fərq nədir?|Heç bir fərqi yoxdur|IP ünvanı məntiqidir və dəyişə bilər, MAC ünvanı isə fizikidir və cihaz dəyişmədikcə sabit qalır|MAC ünvanı yalnız kompyuterlərdə olur|B
+Sual 6: Kompüterimizdə şəbəkə kartının MAC ünvanını öyrənmək üçün əmr sətrində (CMD) hansı kod yazılır?|ping google.com|getmac (və ya ipconfig /all)|cls|B
+Sual 7: Müasir telefonların ictimai Wi-Fi şəbəkələrində hər dəfə saxta/təsadüfi MAC ünvanı yaratmasının məqsədi nədir?|İnterneti sürətləndirmək|Şəxsin hərəkətlərinin izlənməsinin (izdəmə və casusluğun) qarşısını almaq|Telefonun yaddaşını qorumaq|B
+Sual 8: Bir MAC ünvanının ilk 6 simvolu (ilk 3 baytı) nəyi ifadə edir?|Cihazın qiymətini|Cihazı istehsal edən şirkəti (OUI - İstehsalçı kodu)|İnternet provayderini|B
+Sual 9: Haker modemin "MAC Filtrləmə" qorumasını necə yan keçə bilər?|Şəbəkə paketlərini izləyərək icazəli bir cihazın MAC ünvanını öyrənir və öz MAC ünvanını onunla eyniləşdirir (Spoofing edir)|Modemi söndürərək|Şifrəni silərək|A
+Sual 10: Ev şəbəkənizdə naməlum bir MAC ünvanı görürsünüzsə bu nəyin göstəricisidir?|Modemin yeniləndiyinin|Wi-Fi şəbəkənizə icazəsiz bir cihazın (bəlkə də hakerin) qoşulduğunun|İnternet xəttinin kəsildiyinin|B
+===MOVZU===
+28
+Mövzu 28: Daxili və Xarici IP Ünvanları
+İnternet dünyasında iki növ IP ünvanı var: Daxili (Private) və Xarici (Public). Daxili IP evinizin və ya məktəbinizin daxilindəki şəbəkədə modemin cihazlara verdiyi ünvandır (adətən 192.168.x.x ilə başlayır). Bu ünvanlar yalnız yerli şəbəkədə keçərlidir və xarici internetdən görünmür. Xarici IP isə internet provayderinizin (ISP) sizin modeminizə verdiyi qlobal ünvandır. İnternetdəki saytlar sizi yalnız bu xarici IP ilə tanıyır. Hakerlər sizə birbaşa sızmaq üçün ilk növbədə xarici IP ünvanınızı hədəf alırlar.
+Qızıl Qaydalar:
+- Şəxsi xarici IP ünvanınızı internet forumlarında və ya tanımadığınız onlayn oyun çatlarında heç vaxt paylaşmayın.
+- Xarici IP ünvanınızı gizlətmək və internetdə fərqli bir ölkənin IP-si ilə təhlükəsiz gəzmək üçün VPN texnologiyasından istifadə edin.
+Sual 1: Ev daxilində modemin telefon və kompüterlərinizə verdiyi və xarici internetə qapalı olan IP növü hansıdır?|Xarici (Public) IP|Daxili (Private) IP|Statik IP|B
+Sual 2: İnternet provayderinizin modemyatınıza verdiyi və sizi bütün dünyada tanıdan qlobal İP ünvanı necə adlanır?|Daxili (Private) IP|Xarici (Public) IP|Lokal IP|B
+Sual 3: Evinizdəki Wi-Fi-a qoşulan 3 fərqli telefonun daxili IP ünvanları necə olmalıdır?|Hamısı tamamilə eyni olmalıdır|Hər birinin daxili IP-si fərqli olmalıdır (məs: 192.168.1.5, 192.168.1.6)|İP ünvanları olmamalıdır|B
+Sual 4: Google-da "What is my IP" (Mənim IP-m nədir) yazdıqda qarşınıza çıxan ünvan hansı IP növüdür?|Daxili IP|Xarici (Public) IP|Mac ünvanı|B
+Sual 5: Daxili IP ünvanları rəqəmsal dünyada adətən hansı standart rəqəmlərlə başlayır?|8.8.8.8|192.168.x.x (və ya 10.x.x.x)|0.0.0.0|B
+Sual 6: Hakerlər sizin daxili IP ünvanınızı (məs: 192.168.1.10) bilsələr, internet üzərindən birbaşa cihazınıza sıza bilərlərmi?|Bəli, dərhal sızarlar|Xeyr, çünki daxili IP-lər internetə qapalıdır və xaricdən birbaşa əlçatan deyil|Yalnız oyunlarda olar|B
+Sual 7: Hansı texnologiya daxili IP ünvanlarımızı xarici internetə çıxararkən tək bir xarici IP-yə çevirib maskalayır?|DNS|NAT (Network Address Translation)|Firewall|B
+Sual 8: Xarici IP ünvanımızın hakerlər tərəfindən tapılması hansı kiber hücum riskini xeyli artırır?|Telefonun ekranının kilidlənməsini|Cihazın internet xəttini donduran DDoS və ya port skanlama hücumlarını|Şifrələrin silinməsini|B
+Sual 9: Ev modemini söndürüb yandırdıqda internet provayderinin bizə fərqli bir xarici IP verməsi necə adlanır?|Statik IP|Dinamik IP|Sabit IP|B
+Sual 10: Böyük şirkətlərin və serverlərin xarici IP ünvanları niyə dinamik yox, həmişə sabit (Statik) saxlanılır?|Daha ucuz olduğu üçün|İstifadəçilərin və müştərilərin sayta hər dəfə eyni ünvandan rahat qoşula bilməsi üçün|Viruslardan qorunmaq üçün|B
+===MOVZU===
+29
+Mövzu 29: Ransomware (Fidyə Proqramları)
+Ransomware (Fidyə proqramı) yoluxduğu cihazdakı bütün faylları (şəkillər, videolar, sənədlər) güclü alqoritmlərlə şifrələyərək istifadəçinin girişini tamamilə kəsən zərərli proqram növüdür. Faylların sonluğu adətən qəribə formatlara dəyişir (məs: .locked). Hakerlər faylları açmaq üçün ekrana bir bildiriş çıxararaq adətən kriptovalyuta (Bitcoin) forması ilə pul (fidyə) tələb edirlər. Pul ödənsə belə, hakerlərin faylları geri qaytaracağına heç bir zəmanət yoxdur.
+Qızıl Qaydalar:
+- Ransomware hücumlarından qorunmağın ən effektiv yolu vacib faylları mütəmadi olaraq kompüterdən kənar bir xarici diskdə və ya bulud sistemində nüsxələməkdir (Backup).
+- Tanımadığınız e-maillərdən gələn şübhəli keçidlərə daxil olmayın və proqramların crack (saxta) versiyalarını yükləməyin.
+Sual 1: Yoluxduğu cihazdakı faylları şifrələyib açmaq üçün pul tələb edən zərərli proqram növü hansıdır?|Spyware|Ransomware (Fidyə proqramı)|Adware|B
+Sual 2: Ransomware proqramları faylları kilidləmək üçün aşağıdakı üsullardan hansını istifadə edir?|Faylları silir|Güclü şifrələmə alqoritmləri ilə oxunmaz hala gətirir|Faylların rəngini dəyişir|B
+Sual 3: Hakerlər fidyə proqramı ilə kilidlədikləri fayllar müqabilində pulu adətən hansı üsulla tələb edirlər?|Nağd pulla|Kriptovalyuta (məsələn, Bitcoin) ilə, çünki izini tapmaq çox çətindir|Bank kartına köçürmə ilə|B
+Sual 4: Kompüteriniz Ransomware virusuna yoluxduqda hakerlərə pul ödəmək kiber-təhlükəsizlikdə niyə tövsiyə edilmir?|Pul çox az olduğu üçün|Çünki pulu aldıqdan sonra hakerlərin faylları açacağına heç bir zəmanət yoxdur və bu, cinayətkarları daha da həvəsləndirir|Kompüter dərhal yanacağı üçün|B
+Sual 5: Ransomware hücumuna qarşı ən güclü və effektiv müdafiə/bərpa taktikası hansıdır?|Kompüterin ekranını silmək|Vacib məlumatların mütəmadi olaraq kənar yaddaşda nüsxəsinin (Backup) çıxarılması|Yeni oyun yükləmək|B
+Sual 6: Dünyada milyardlarla dollar ziyana səbəb olmuş ən məşhur Ransomware hücumlarından biri hansıdır?|Windows Update|WannaCry|Google Chrome|B
+Sual 7: Ransomware virusları kompüterlərə ən çox hansı yolla yoluxur?|Rəsmi antivirus yeniləmələri ilə|Zərərli e-mail qoşmaları, saxta proqramlar və crack faylları vasitəsilə|Musiqi dinləyərkən|B
+Sual 8: Fayllarınızın sonluğu ".txt" və ya ".jpg" əvəzinə ".crypto" və ya ".locked" olubsa, bu nəyin əlamətidir?|Sistemin sürətləndiyinin|Cihazın fidyə proqramına (Ransomware) yoluxduğunun və faylların şifrələndiyinin|Oyunun yaddaşda qaldığının|B
+Sual 9: Ransomware ilə şifrələnmiş faylları antivirus proqramları tərkibindəki virusu sildikdən sonra dərhal aça bilirmi?|Bəli, dərhal açılır|Xeyr, antivirus virusun özünü silsə də, şifrələnmiş faylları açmaq üçün xüsusi deşifrə (decryptor) açarı lazımdır|Fayllar tamamilə yox olur|B
+Sual 10: Şirkətlər fidyə proqramlarından qorunmaq üçün hansı şəbəkə təhlükəsizliyi qaydasına əməl etməlidir?|İnterneti tam söndürməlidir|Nüsxələmə (Backup) sistemlərini əsas şəbəkədən izolyasiya olunmuş (ayrı) saxlamalıdırlar|Bütün şifrələri silməlidir|B
+===MOVZU===
+30
+Mövzu 30: VPN və İnternet Gizliliyi
+VPN (Virtual Private Network) sizin cihazınız ilə internet arasındakı bağlantını tamamilə şifrələyən rəqəmsal bir tuneldir. VPN aktiv olduqda, göndərdiyiniz və qəbul etdiyiniz bütün şəbəkə paketləri gizli kodlarla qarışdırılır. Bu səbəbdən, ictimai Wi-Fi şəbəkələrindəki hakerlər və ya internet provayderiniz sizin hansı saytlara daxil olduğunuzu və nə yazdığınızı görə bilmir. Həmçinin VPN sizin əsl IP ünvanınızı gizlədərək, sizi internetdə fərqli bir ölkədəymiş kimi göstərir.
+Qızıl Qaydalar:
+- Xüsusilə kafelərdə və hava limanlarında pulsuz Wi-Fi şəbəkələrinə qoşularkən məlumatlarınızın oğurlanmaması üçün mütləq güvənli bir VPN proqramını işə salın.
+- Tamamilə pulsuz və naməlum VPN proqramlarından uzaq durun; çünki bəzi zərərli pulsuz VPN-lər sizin internet məlumatlarınızı gizlicə toplayıb reklam şirkətlərinə sata bilər.
+Sual 1: İnternet trafikini şifrəli tunel daxilinə salaraq gizliliyi və təhlükəsizliyi təmin edən texnologiya hansıdır?|DNS|VPN (Virtual Private Network)|NAT|B
+Sual 2: VPN proqramlarının kiber-təhlükəsizlik baxımından ən böyük faydası nədir?|İnterneti sürətləndirməsi|Bütün məlumat axınını şifrələyərək hakerlərin paketləri oxumasını əngəlləməsi|Telefonun batareyasını qoruması|B
+Sual 3: VPN aktiv edildikdə sizin internetdəki rəqəmsal kimliyinizlə bağlı nə dəyişir?|Kompüterin adı dəyişir|Əsl xarici IP ünvanınız gizlənir və seçdiyiniz ölkənin IP ünvanı görünür|Heç nə dəyişmir|B
+Sual 4: Şifrəsiz ictimai bir Wi-Fi şəbəkəsində VPN istifadə etmək bizi hansı hücumdan qoruyar?|DDoS hücumundan|MitM (Ortadakı adam) və paket izləmə (sniffing) hücumlarından|Viruslu disklərdən|B
+Sual 5: Şübhəli və tamamilə pulsuz olan naməlum VPN proqramlarının ən böyük riski nədir?|Telefonun rəngini dəyişməsi|Sizin şəxsi məlumatlarınızı və daxil olduğunuz saytların tarixçəsini qeyd edib (Log tutub) başqalarına satması|Oyunları silməsi|B
+Sual 6: VPN istifadə edərkən internet sürətində niyə bəzən azacıq zəifləmə hiss oluna bilər?|Telefon köhnəldiyi üçün|Məlumatların şifrələnməsi (bükülməsi) və uzaq ölkədəki server üzərindən dolanaraq getməsi prosesinə görə|Batareya bitdiyi üçün|B
+Sual 7: VPN-in ötürdüyü məlumatları qorumaq üçün istifadə etdiyi təhlükəsiz tunel yaratma qaydalarına (məs: OpenVPN, WireGuard) nə ad verilir?|Oyun qaydaları|VPN Protokolları|Veb brauzerlər|B
+Sual 8: İnternet provayderiniz (ISP) siz VPN-i açdıqdan sonra sizin daxil olduğunuz saytların daxili tərkibini oxuya bilərmi?|Bəli, oxuya bilər|Xeyr, yalnız şifrəli bir VPN serverinə qoşulduğunuzu görür, daxildəki hərəkətlərinizi görə bilmir|Yalnız kompüterdə oxuya bilər|B
+Sual 9: VPN hakerlərin sizin kompüterinizə birbaşa fiziki olaraq toxunub fayl oğurlamasının qarşısını ala bilərmi?|Bəli, qoruyur|Xeyr, VPN yalnız şəbəkə üzərindən ötürülən trafiki şifrələyir, fiziki təhlükəsizliyə qarışmır|Yalnız modemi qoruyur|B
+Sual 10: "No-Log Policy" (Qeydiyyat saxlamama siyasəti) olan etibarlı bir VPN şirkəti nə vəd edir?|İnterneti tamamilə kəsməyi|İstifadəçinin internetdəki heç bir hərəkətini və məlumatını öz serverlərində qeyd etməyəcəyini və gizli saxlayacağını|Daha çox reklam göstərməyi|B
+===MOVZU===
+31
+Mövzu 31: IPS (Sızmanın Qarşısının Alınması Sistemi)
+IPS (Intrusion Prevention System) şəbəkə daxilində zərərli fəaliyyətləri və hücumları real vaxt rejimində aşkar edərək avtomatik olaraq qarşısını alan təhlükəsizlik texnologiyasıdır. O, şəbəkə paketlərini davamlı olaraq analiz edir. Əgər hakerin hücum xarakterli bir kod göndərdiyini və ya sistemə sızmağa çalışdığını görərsə, həmin zərərli şəbəkə trafikini dərhal bloklayır və bağlantını kəsir. IPS həm də sistem inzibatçısına dərhal xəbərdarlıq (alarm) göndərir.
+Qızıl Qaydalar:
+- Şirkət şəbəkələrində IPS sistemləri hər zaman "Inline" (trafikin birbaşa keçdiyi xətt üzərində) rejimdə quraşdırılmalıdır ki, hücumu anında dayandıra bilsin.
+- IPS-in yeni çıxan haker hücumlarını tanıması üçün onun imza (signature) verilənlər bazası mütəmadi olaraq yenilənməlidir.
+Sual 1: Şəbəkədəki hücumları həm aşkar edən, həm də avtomatik olaraq qarşısını alan sistem hansıdır?|IDS|IPS (Intrusion Prevention System)|Firewall|B
+Sual 2: IPS sözünün hərfi mənası Azərbaycan dilində nə deməkdir?|Şəbəkə idarəetmə sistemi|Sızmanın Qarşısının Alınması Sistemi|Virus təmizləyici|B
+Sual 3: IPS ilə IDS (Intrusion Detection System) arasındakı ən əsas fərq nədir?|Heç bir fərqi yoxdur|IDS hücumu sadəcə görür və xəbər verir, IPS isə hücumu həm görür, həm də avtomatik bloklayır|IDS daha sürətlidir|B
+Sual 4: IPS əvvəlcədən məlum olan haker hücumlarını və virus kodlarını necə tanıyır?|Kompüterin markasına baxaraq|Verilənlər bazasındakı hücum imzaları (Signatures) vasitəsilə|İnternetin sürətinə görə|B
+Sual 5: IPS şəbəkədə şübhəli bir sızma cəhdi aşkar etdikdə ilk olaraq hansı addımı atır?|Kompüteri söndürür|Zərərli paketi bloklayır və həmin İP ünvanından gələn trafiki kəsir|Bütün faylları silir|B
+Sual 6: IPS sisteminin yeni və naməlum hücum metodlarını (Zero-day) tanımaq üçün istifadə etdiyi analiz üsulu necə adlanır?|Formatlaşdırma|Anomaliya əsaslı (Davranış) analiz|Skanlama|B
+Sual 7: IPS sisteminin hücumu anında dayandıra bilməsi üçün şəbəkədə necə yerləşdirilməsi şərtdir?|Şəbəkədən kənarda|Inline (Trafikin keçdiyi əsas xəttin üzərində)|Yalnız modemin yanında|B
+Sual 8: IPS verilənlər bazası yenilənməzsə nə baş verər?|İnternet kəsilər|Yeni çıxan müasir haker hücumlarını tanıya bilməz və müdafiə zəifləyər|Telefon format olar|B
+Sual 9: Hakerlərin sistemə çoxlu saxta paket göndərərək IPS-i çaşdırmaq və real hücumu gizlətmək taktikası necə adlanır?|Phishing|IPS Tükəndirmə (Evading/Flooding) hücumu|Backup|B
+Sual 10: Şəbəkə təhlükəsizliyində IPS sistemi adətən hansı digər müdafiə qalxanı ilə birlikdə koordinasiyalı işləyir?|Oyun proqramları|Firewall (Təhlükəsizlik Divarı)|Ekran kilidi|B
+===MOVZU===
+32
+Mövzu 32: IDS (Sızma Təsbit Sistemi)
+IDS (Intrusion Detection System) şəbəkə və ya kompüter daxilindəki zərərli fəaliyyətləri, icazəsiz girişləri və haker hücumlarını aşkar etmək üçün istifadə olunan pasiv bir təhlükəsizlik sistemidir. IDS-i rəqəmsal bir təhlükəsizlik kamerası kimi düşünmək olar. O, şəbəkə trafikini izləyir və şübhəli bir vəziyyət, məlum bir virus imzası və ya anomaliya aşkarladıqda dərhal xəbərdarlıq (alert) yaradır. Lakin hücumu avtomatik olaraq bloklamır, sadəcə təhlükəsizlik mütəxəssislərinə xəbər verir.
+Qızıl Qaydalar:
+- IDS sistemləri şəbəkənin fəaliyyətinə və sürətinə təsir etməmək üçün adətən "Promiscuous Mode" (izləmə rejimi) ilə şəbəkə xəttinə paralel olaraq quraşdırılır.
+- IDS-dən gələn bildirişlər və həyəcan siqnalları (logs) kiber-təhlükəsizlik mütəxəssisləri tərəfindən mütəmadi olaraq incələnməlidir.
+Sual 1: Şəbəkədəki zərərli fəaliyyətləri və hücumları izləyib sadəcə aşkar edən və xəbər verən sistem hansıdır?|Firewall|IDS (Intrusion Detection System)|NAT|B
+Sual 2: IDS sözünün hərfi mənası Azərbaycan dilində nə deməkdir?|Şəbəkə idarəetmə sistemi|Sızma Təsbit Sistemi|Fidyə proqramı|B
+Sual 3: IDS-i işləmə prinsipinə görə real həyatda ən çox nəyə bənzədirlər?|Yanğın söndürən maşına|Təhlükəsizlik kamerasına və ya alarm sisteminə|Qapı kilidinə|B
+Sual 4: Şəbəkəyə qoşulan tək bir kompüterin daxili hərəkətlərini və fayllarını izləyən IDS növü necə adlanır?|NIDS|HIDS (Host-based IDS)|PIDS|B
+Sual 5: Bütün şəbəkə trafikini və paketləri analiz edərək ümumi şəbəkəni qoruyan IDS növü hansıdır?|HIDS|NIDS (Network-based IDS)|WIDS|B
+Sual 6: IDS sistemində "False Positive" (Yalançı Həyəcan) nə deməkdir?|Sistemin tamamilə çökməsi|Zərərsiz və normal bir şəbəkə hərəkətinin IDS tərəfindən səhvən hücum kimi qiymətləndirilməsi|İnternetin kəsilməsi|B
+Sual 7: IDS-in hücumu avtomatik dayandırmayıb, sadəcə izləməsi və hesabat verməsi onun hansı xüsusiyyətidir?|Aktiv olması|Pasiv (İzləyici) olması|Zəif olması|B
+Sual 8: IDS sistemləri şübhəli bir hərəkət tapdıqda bu məlumatı hara yazır və saxlayır?|Oyun yaddaşına|Log (Qeydiyyat) fayllarına və təhlükəsizlik panelinə|Musiqi qovluğuna|B
+Sual 9: IDS və IPS sistemlərinin hər ikisinin funksiyasını daxilində birləşdirən müasir yeni nəsil Firewall-lar necə adlanır?|Antivirus|NGFW (Next-Generation Firewall)|Proxy Server|B
+Sual 10: IDS-in verilənlər bazasında olan qaydalara və şablonlara uyğun olaraq hücumları tapması hansı analiz növüdür?|Davranış analizi|İmza əsaslı (Signature-based) analiz|Təsadüfi analiz|B
+===MOVZU===
+33
+Mövzu 33: Bulud Təhlükəsizliyi (Cloud Security)
+Bulud texnologiyaları (məsələn, Google Drive, iCloud, OneDrive) məlumatlarımızı internet üzərindəki uzaq serverlərdə saxlamağa imkan verir. Bulud təhlükəsizliyi isə bu məlumatların hakerlərdən qorunması prosesidir. Şirkətlər və fərdlər məlumatlarını buluda yükləyərkən hakerlər həmin serverlərə sızmağa və ya istifadəçi şifrələrini oğurlayaraq məlumatları ələ keçirməyə çalışırlar. Buludda saxlanılan məlumatlar mütləq şifrələnməli və hesablarda ikiaddımlı doğrulama (2FA) aktiv edilməlidir.
+Qızıl Qaydalar:
+- Bulud hesablarınız üçün istifadə etdiyiniz şifrələri digər saytlardakı şifrələrlə eyni qoymayın.
+- Paylaşılan bulud linklərinin (məs: Google Drive linki) hər kəsə yox, yalnız icazə verilən şəxslərə açıq olduğundan əmin olun.
+Sual 1: Məlumatların internet üzərindəki uzaq serverlərdə saxlanılması və idarə olunması texnologiyası necə adlanır?|Lokal yaddaş|Bulud texnologiyası (Cloud)|Formatlaşdırma|B
+Sual 2: Bulud hesablarımızı hakerlərdən qorumaq üçün mütləq aktiv edilməli olan təhlükəsizlik qatı hansıdır?|Ekran parlaqlığı|İkiaddımlı Doğrulama (2FA)|Oyun rejimi|B
+Sual 3: Bulud provayderi ilə müştəri arasında təhlükəsizlik məsuliyyətlərinin bölüşdürülməsi prinsipi kiber-təhlükəsizlikdə necə adlanır?|Ortaq Məsuliyyət Modeli (Shared Responsibility)|Gizli müqavilə|Heç biri|A
+Sual 4: Buludda saxlanılan faylların haker tərəfindən ələ keçirilsə belə oxunmamasını təmin edən texnologiya hansıdır?|Faylın adını dəyişmək|Şifrələmə (Encryption)|Faylı gizlətmək|B
+Sual 5: Aşağıdakılardan hansı bulud təhlükəsizliyində ən böyük risklərdən biri hesab olunur?|İnternetin sürətli olması|Səhv tənzimləmələr ucbatından məlumatların hər kəsə açıq qalması (Misconfiguration)|Telefonun qızması|B
+Sual 6: Bulud xidmətlərində tətbiq olunan və "heç bir sorğuya kor-koranə güvənmə, hər zaman yoxla" prinsipini müdafiə edən model hansıdır?|Open Access|Zero Trust (Sıfır Güvən)|Always Trust|B
+Sual 7: Bulud serverlərində baş verən hər bir giriş və hərəkətin qeydə alındığı fayllara nə ad verilir?|Musiqi faylı|Log (Qeydiyyat) faylları|Şəkil albomu|B
+Sual 8: Bütün bulud infrastrukturunun (serverlər, şəbəkə) provayder tərəfindən idarə olunduğu, proqramın isə internetdən birbaşa işlədildiyi model (məs: Gmail) hansıdır?|IaaS|SaaS (Software as a Service)|PaaS|B
+Sual 9: Şəxsi bulud diskinizdəki vacib bir sənədin linkini "Hər kəsə açıq" (Public) etmək hansı riski yaradır?|İnternet paketi bitər|Linkə sahib olan hər bir kəsin (və hakerlərin) həmin sənədi asanlıqla oxuya bilməsi riskini|Heç bir risk yoxdur|B
+Sual 10: Böyük şirkətlərin həm şəxsi daxili serverlərini, həm də qlobal bulud sistemlərini birlikdə istifadə etdiyi bulud növü necə adlanır?|Public Cloud|Hibrid Bulud (Hybrid Cloud)|Private Cloud|B
+===MOVZU===
+34
+Mövzu 34: Məlumat Məxfiliyi və GDPR
+Məlumat məxfiliyi internetdə istifadəçilərə aid şəxsi məlumatların (ad, soyad, e-mail, telefon, kordonat və bank məlumatları) icazəsiz toplanmasının və satılmasının qarşısını alan sahədir. Bu sahədə dünyada ən güclü və məşhur qanun Avropa İttifaqının qəbul etdiyi GDPR (Ümumi Məlumatların Qorunması Reqlamenti) qanunudur. Bu qanuna görə, heç bir sayt və ya proqram sizin icazəniz olmadan şəxsi məlumatlarınızı toplaya, saxlaya və ya başqasına sata bilməz. Əks halda onları milyonlarla dollar cərimə gözləyir.
+Qızıl Qaydalar:
+- Saytlara daxil olarkən qarşınıza çıxan "Kuki (Cookie) parametrləri" pəncərəsində hər şeyə kor-koranə "Hər şeyə icazə ver" deməyin; şəxsi məlumatlarınızı qorumaq üçün yalnız vacib kukiləri qəbul edin.
+- GDPR-a əsasən, istifadəçinin istədiyi vaxt bir şirkətdən özünə aid bütün şəxsi məlumatların tamamilə silinməsini tələb etmək hüququ var (Unudulmaq Hüququ).
+Sual 1: İnternetdə istifadəçilərin şəxsi məlumatlarının qorunmasını tənzimləyən dünyada ən məşhur beynəlxalq qanunvericilik hansıdır?|DNS|GDPR (General Data Protection Regulation)|HTTP|B
+Sual 2: GDPR qanunvericiliyinin hərfi mənası nə deməkdir?|Şəbəkə təhlükəsizlik qaydası|Ümumi Məlumatların Qorunması Reqlamenti|Haker cəza qanunu|B
+Sual 3: Aşağıdakılardan hansı məlumat məxfiliyi baxımından "Şəxsi Məlumat" (PII) kateqoriyasına daxil deyil?|Sizin ev ünvanınız və telefon nömrəniz|Kompüterinizin prosessorunun markası|Şəxsiyyət vəsiqənizin nömrəsi|B
+Sual 4: GDPR-a görə bir istifadəçinin bir saytdan özünə aid bütün məlumatları tamamilə silməsini tələb etmə hüququ necə adlanır?|Dəyişdirmə hüququ|Unudulmaq Hüququ (Right to be Forgotten)|Oxumaq hüququ|B
+Sual 5: Saytların sizi tanımaq və internetdəki hərəkətlərinizi izləmək üçün brauzerinizə yerləşdirdiyi kiçik mətn fayllarına nə ad verilir?|Virus|Kuki (Cookie)|Şəbəkə paketi|B
+Sual 6: Bir şirkət istifadəçilərin gizli şəxsi məlumatlarını hakerlərə sızdırarsa (Data Breach) nə ilə üzləşər?|Heç bir şey olmaz|GDPR qanunlarına əsasən çox ağır pul cərimələri və hüquqi sanksiyalarla|İnterneti sürətlənər|B
+Sual 7: Məlumat məxfiliyini qorumaq üçün tətbiqləri yükləyərkən onlara verilən hansı icazələrə diqqət etməliyik?|Oyunun həcminə|Kamera, mikrofon və məkan (GPS) kimi kritik giriş icazələrinə|Telefonun rənginə|B
+Sual 8: Saytlarda qeydiyyatdan keçərkən qəbul etdiyimiz və şəxsi məlumatlarımızın necə istifadə olunacağını izah edən rəsmi mətn necə adlanır?|Oyun qaydaları|Gizlilik Siyasəti (Privacy Policy)|İstifadəçi şifrəsi|B
+Sual 9: Şirkətlərdə məlumatların qorunması qaydalarına əməl olunub-olunmadığına nəzarət edən rəsmi məsul şəxs necə adlanır?|Pentester|DPO (Data Protection Officer / Məlumatların Qorunması üzrə Mütəxəssis)|Sistem admini|B
+Sual 10: İnternetdə məlumat məxfiliyimizi fərdi olaraq qorumağın ən sadə yolu hansıdır?|Hər yerdə eyni şifrəni yazmaq|Şübhəli saytlarda şəxsi məlumatları və kart nömrələrini paylaşmamaq, gizlilik sazlamalarını düzgün qurmaq|Sosial şəbəkələri bağlamaq|B
+===MOVZU===
+35
+Mövzu 35: IoT (Əşyaların İnterneti) Təhlükəsizliyi
+IoT (Internet of Things) internetə qoşula bilən bütün ağıllı cihazları (ağıllı televizorlar, IP kameralar, ağıllı soyuducular) ifadə edir. Hakerlər bu cihazların zəif qorunmasından istifadə edərək evinizə gizlicə nəzarət edə və ya həmin cihazları zombi kompüterə çevirərək böyük DDoS hücumlarında istifadə edə bilərlər.
+Qızıl Qaydalar:
+- Evinizdəki IP kamera və smart TV kimi cihazların zavod tərəfindən qoyulmuş standart şifrələrini dərhal dəyişin.
+- Ağıllı ev cihazlarını əsas kompüter və telefonlarınızın qoşulduğu şəbəkədən ayırmaq üçün modemdə qonaq şəbəkəsi (Guest Network) yaradın.
+Sual 1: İnternetə qoşula bilən ağıllı ev cihazlarının ümumi texnoloji adı nədir?|OSINT|IoT (Əşyaların İnterneti)|Malware|B
+Sual 2: Hakerlərin IoT cihazlarını hədəf almasının ən böyük səbəbi nədir?|Çox baha olmaları|İstifadəçilərin standart şifrələri dəyişdirməməsi və təhlükəsizlik yenilənmələrinin zəif olması|Cihazların rəngli olması|B
+Sual 3: Minlərlə yoluxdurulmuş ağıllı IP kameranın birləşdirilərək hakerlər tərəfindən idarə olunan zombi şəbəkəsinə çevrilməsi necə adlanır?|Botnet|Firewall|VPN|A
+Sual 4: IoT cihazlarının təhlükəsizliyini təmin etmək üçün modemdə edilməli olan ən düzgün şəbəkə addımı hansıdır?|İnterneti sürətləndirmək|Ağıllı cihazları əsas şəbəkədən ayırıb "Qonaq Şəbəkəsində" (Guest Network) saxlamaq|Şifrəni silmək|B
+Sual 5: Müasir ağıllı avtomobillərin daxili sistemlərinə (CAN bus) kiber-hücum edilərək idarəetmənin ələ keçirilməsi hansı sahəyə daxildir?|Veb hakerlik|Avtomobil IoT Hakerliyi (Car Hacking)|Phishing|B
+Sual 6: Bir IP kameranın standart giriş paneli şifrəsini (məs: admin/admin) dəyişdirməmək hansı riski yaradır?|Kameranın yanmasını|İnternetdəki hər kəsin və hakerlərin kameraya asanlıqla bağlanıb evinizi izləməsi riskini|Heç bir risk yoxdur|B
+Sual 7: IoT cihazlarının proqram təminatının (Firmware) yenilənməsi niyə vacibdir?|Ekrana yeni oyunların gəlməsi üçün|İstehsalçı tərəfindən tapılan təhlükəsizlik boşluqlarının bağlanması üçün|Cihazın ölçüsünü kiçiltmək üçün|B
+Sual 8: Ağıllı saatların və qulaqlıqların yaxın məsafədən sındırılaraq məlumatların oğurlanması hansı simsiz texnologiyanın zəifliyindən qaynaqlanır?|Wi-Fi|Bluetooth (Bluejacking/Bluesnarfing)|4G/5G|B
+Sual 9: IoT cihazlarının daxili əməliyyat sistemi və proqram kodlarının bütövlüyünə nə ad verilir?|Hardware|Firmware|Software|B
+Sual 10: Evinizə yeni bir ağıllı cihaz aldıqda təhlükəsizlik üçün ilk nə etməlisiniz?|Dərhal işə salıb unütmalıyam|Təlimatı oxuyub, idarəetmə panelinə daxil olaraq çətin və unikal bir şifrə təyin etməliyəm|Dostlarıma göstərməliyəm|B
+===MOVZU===
+36
+Mövzu 36: SQL Injection (Verilənlər Bazası Hücumları)
+SQL Injection (SQLi) veb saytların verilənlər bazasını (database) hədəf alan ən təhlükəli haker hücumlarından biridir. Veb saytın giriş panellərində (məsələn, istifadəçi adı və şifrə yazılan yer) kodlaşdırma boşluğu olduqda, haker ora normal mətn əvəzinə zərərli SQL kodları daxil edir. Bu kodlar sayəsində haker heç bir şifrə bilmədən sayta admin kimi daxil ola və bütün istifadəçilərin gizli məlumatlarını oğurlaya bilər.
+Qızıl Qaydalar:
+- SQL Injection boşluqlarının qarşısını almaq üçün proqramçılar kod yazarkən "Parameterized Queries" (Parametrləşdirilmiş sorğular) metodundan istifadə etməlidirlər.
+- Veb sayta daxil edilən hər bir məlumat mütləq filtrasiyadan (Input Validation) keçirilməlidir.
+Sual 1: Veb saytların verilənlər bazasına zərərli kodlar göndərərək məlumatları oğurlamaq hücumu necə adlanır?|DDoS|SQL Injection (SQLi)|Brute Force|B
+Sual 2: SQL Injection hücumunun əsas hədəfi kompüterin hansı hissəsi və ya sistemidir?|Ekran kartı|Verilənlər bazası (Database / SQL Server)|Modem proqramı|B
+Sual 3: Haker veb saytda SQL Injection boşluğu taparsa nəyi bacara bilər?|Saytın rəngini dəyişər|Heç bir şifrə daxil etmədən admin panelini keçə və bazadakı bütün istifadəçi məlumatlarını çəkə bilər|İnterneti sürətləndirər|B
+Sual 4: SQL Injection boşluqlarını avtomatik skan edib tapan və verilənlər bazasını ələ keçirən məşhur etik haker aləti hansıdır?|Nmap|Sqlmap|Wireshark|B
+Sual 5: Proqramçıların SQLi hücumlarının qarşısını almaq üçün istifadə etdiyi ən təhlükəsiz kodlaşdırma üsulu hansıdır?|Şifrəni gizlətmək|Parameterized Queries (Hazırlanmış Sorğular)|Mətni silmək|B
+Sual 6: Veb saytın axtarış və ya giriş qutusuna yazılan zərərli simvolların (məsələn, tək dırnaq işarəsi: ') zərərsizləşdirilməsi prosesi necə adlanır?|Formatlaşdırma|Input Validation (Giriş məlumatlarının doğrulanması/filtrlənməsi)|Skanlama|B
+Sual 7: SQL Injection hücumları zamanı haker verilənlər bazasından məlumat çəkmək üçün hansı əsas SQL əmrindən istifadə edir?|DELETE|SELECT|UPDATE|B
+Sual 8: Veb proqram təhlükəsizliyində SQLi hansı kateqoriyaya daxil olan bir boşluq növüdür?|Şəbəkə zəifliyi|İnjection (Sızdırma/Daxil etmə) boşluqları|Fiziki zəiflik|B
+Sual 9: SQL Injection-dan qorunmaq üçün veb serverin qarşısına quraşdırılan xüsusi qoruyucu divar necə adlanır?|Standart Firewall|WAF (Web Application Firewall)|Proxy Server|B
+Sual 10: Sayta daxil olarkən istifadəçi adı yerinə "' OR '1'='1" yazaraq giriş panelini sındırmağa çalışmaq hansı hücumun klassik nümunəsidir?|Phishing|SQL Injection|Social Engineering|B
+===MOVZU===
+37
+Mövzu 37: Cross-Site Scripting (XSS Hücumları)
+Cross-Site Scripting (XSS) veb saytın istifadəçilərini hədəf alan bir boşluq növüdür. Haker veb saytın daxilinə zərərli JavaScript kodları yerləşdirir. Həmin sayta daxil olan normal istifadəçilərin brauzerləri bu kodu avtomatik işə salır. Nəticədə haker istifadəçinin brauzerindəki sessiya tokenlərini (Cookie) oğurlayaraq onun profilinə gizlicə daxil ola bilir.
+Qızıl Qaydalar:
+- XSS hücumlarının qarşısını almaq üçün istifadəçidən gələn hər bir kod və mətn "Output Encoding" (Çıxış Kodlaşdırılması) metodundan keçirilməlidir.
+- Brauzerlərdə XSS hücumlarının işləməsini çətinləşdirmək üçün saytlarda CSP (Content Security Policy) başlıqları aktiv edilməlidir.
+Sual 1: Veb saytlara zərərli JavaScript kodları yerləşdirərək digər istifadəçilərin brauzerini idarə etmək hücumu hansıdır?|SQL Injection|Cross-Site Scripting (XSS)|DDoS|B
+Sual 2: XSS hücumlarında hakerlər tərəfindən ən çox istifadə olunan və brauzerdə işləyən proqramlaşdırma dili hansıdır?|Python|JavaScript|C++|B
+Sual 3: Haker uğurlu bir XSS hücumu sayəsində istifadəçinin brauzerindən nəyi oğurlaya bilər?|Kompüterin yaddaşını|Sessiya məlumatlarını (Cookie / Session Token)|Ekran şəklini|B
+Sual 4: Zərərli kodun verilənlər bazasında daimi qaldığı və sayta girən hər kəsə təsir etdiyi ən təhlükəli XSS növü hansıdır?|Reflected XSS|Stored (Qalıcı) XSS|DOM-based XSS|B
+Sual 5: XSS hücumlarından qorunmaq üçün veb saytın kodunda zərərli simvolları (məs: <script>) təhlükəsiz mətnə çevirmək prosesi necə adlanır?|Formatlaşdırma|Output Encoding (Çıxışın Kodlaşdırılması)|Skanlama|B
+Sual 6: Brauzerin yalnız təyin olunmuş təhlükəsiz mənbələrdən gələn kodları işlətməsinə icazə verən müdafiə başlığı hansıdır?|NAT|CSP (Content Security Policy)|DNS|B
+Sual 7: Kuki (Cookie) fayllarının JavaScript kodları tərəfindən oxunmasının qarşısını alan və XSS-dən qoruyan xüsusi kuki parametri hansıdır?|Secure|HttpOnly|SameSite|B
+Sual 8: XSS hücumu birbaşa serverin özünü çökdürür, yoxsa sayta daxil olan istifadəçinin brauzerinə zərər verir?|Serveri çökdürür|İstifadəçinin brauzerində icazəsiz kodlar işlədir və istifadəçini hədəfləyir|Modemi söndürür|B
+Sual 9: Bir hakerin veb qutusuna "<script>alert(1)</script>" yazaraq ekrana xəbərdarlıq pəncərəsi çıxarmağa çalışması nəyin testidir?|DDoS testi|XSS boşluğu testi|Şifrə testi|B
+Sual 10: Sosial şəbəkədə paylaşılan zərərli linkə kliklədikdə şəxsin sessiyasının oğurlanmasına səbəb olan keçici XSS növü hansıdır?|Stored XSS|Reflected (Əks olunan) XSS|Kernel XSS|B
+===MOVZU===
+38
+Mövzu 38: Sosial Mühəndislik alətləri (Social Engineering Tools)
+Sosial mühəndislik insan psixologiyasını aldadaraq gizli məlumatları toplamaq sənətidir. Etik hakerlər və sızma testi mütəxəssisləri şirkət işçilərinin bu cür fırıldaqçılıqlara qarşı hazırlığını yoxlamaq üçün xüsusi proqram təminatlarından istifadə edirlər. Bu alətlər vasitəsilə saxta fişinq (phishing) saytları və ya zərərli e-maillər yaradılaraq simulyasiya hücumları həyata keçirilir.
+Qızıl Qaydalar:
+- Sosial mühəndislik test alətləri yalnız qanuni icazə daxilində və təlim məqsədilə istifadə olunmalıdır.
+- Şirkətlər işçilərini bu alətlərlə mütəmadi sınaqdan keçirərək kibertəhlükəsizlik maarifləndirməsini artırmalıdırlar.
+Sual 1: Sosial mühəndislik hücumlarını simulyasiya etmək üçün istifadə olunan ən məşhur Linux tabanlı kiber-təhlükəsizlik freymvorku hansıdır?|Nmap|SET (Social-Engineer Toolkit)|Wireshark|B
+Sual 2: SET (Social-Engineer Toolkit) proqramının əsas məqsədi nədir?|Şəbəkə xətlərini təmir etmək|Qanuni şəkildə fişinq, saxta sayt yaratma və səsli aldatma testləri keçirmək|Kompüteri format etmək|B
+Sual 3: Sosial mühəndislik alətləri ilə hazırlanmış saxta bir sosial şəbəkə giriş panelinin əsas təhlükəsi nədir?|Saytın yavaş açılması|İstifadəçinin daxil etdiyi şifrə və istifadəçi adının birbaşa hakerin ekranına düşməsi|Kompüterin sönməsi|B
+Sual 4: Hakerlərin hədəf şəxsin etibarını qazanmaq üçün özlərini saxta nömrə və ya saxta e-mail ilə başqa biri kimi göstərməsi prosesi necə adlanır?|Skanlama|Spoofing (E-mail/IP/Nömrə Saxtakarlığı)|Kriptoqrafiya|B
+Sual 5: Sosial mühəndislik testlərindən uğurla keçmək üçün bir şirkət işçisində hansı vərdiş formalaşmalıdır?|Hər gələn linkə dərhal basmaq|Həddindən artıq şübhəçi olmaq, gələn təcili tələbləri fərqli kanallarla mütləq doğrulamaq|Şifrəni hamıya demək|B
+Sual 6: Bir şirkət rəhbərinin (CEO) adından istifadə edərək mühasibə təcili pul köçürməsi üçün göndərilən hədəfli fişinq hücumu necə adlanır?|Smishing|Whaling (Balina ovçuluğu / CEO Fişinqi)|Spam|B
+Sual 7: SMS vasitəsilə göndərilən saxta karqo izləmə linkləri ilə edilən sosial mühəndislik hücumu necə adlanır?|Phishing|Smishing (SMS Fişinqi)|Vishing|B
+Sual 8: Telefon zəngləri ilə insanları qorxudaraq (məs: özünü polis kimi təqdim edərək) kart məlumatlarını qoparmaq hücumu necə adlanır?|Phishing|Vishing (Səsli Fişinq)|Smishing|B
+Sual 9: Sosial mühəndislik alətlərinin sınaqları zamanı işçilərin neçə faizinin aldandığını göstərən statistik hesabat şirkətə nə üçün lazımdır?|İşçiləri işdən çıxarmaq üçün|Şirkətin zəif müdafiə bəndlərini tapmaq və işçilərə yenidən təlim keçmək üçün|Oyun oynamaq üçün|B
+Sual 10: Hakerin hədəf binaya daxil olmaq üçün əlində ağır qutular daşıyan həqiqi bir işçinin arxasınca qapını tutaraq gizlicə içəri sızması fiziki sosial mühəndislikdə necə adlanır?|Phishing|Tailgating (Yaxından təqib/Arxaca sızma)|OSINT|B
+===MOVZU===
+39
+Mövzu 39: Wi-Fi Şifrə Qırma Metodları və Müdafiə
+Wi-Fi şəbəkələrinin təhlükəsizliyi simsiz siqnalların havada yayılması səbəbindən çox həssasdır. Hakerlər xüsusi şəbəkə kartları ilə havada uçan paketləri tutaraq Wi-Fi şifrələrini sındırmağa çalışırlar. Ən geniş yayılmış metod "WPA/WPA2 Handshake" (əlaqə paketləri) tutulması və Brute Force (Sözlük hücumu) vasitəsilə şifrənin təxmin edilməsidir.
+Qızıl Qaydalar:
+- Wi-Fi şəbəkənizi hakerlərdən qorumaq üçün modemin təhlükəsizlik rejimini ən azı WPA2 və ya ən müasir WPA3 səviyyəsinə qaldırın.
+- Wi-Fi şifrənizi ad, doğum tarixi və ya "12345678" kimi bəsit kombinasiyalar yox, böyük-kiçik hərf, rəqəm və simvoldan ibarət mürəkkəb kombinasiya edin.
+Sual 1: Wi-Fi şəbəkəsinə qoşulma anında cihazla modem arasında ötürülən və şifrənin xəfiyyə variantını daxilində saxlayan paket qrupuna nə ad verilir?|IP paketi|Handshake (Əl sıxma paketi)|DNS sorğusu|B
+Sual 2: Linux sistemlərində Wi-Fi paketlərini havadan tutmaq və şifrə qırma testləri etmək üçün istifadə olunan ən məşhur proqram paketi hansıdır?|Nmap|Aircrack-ng|Sqlmap|B
+Sual 3: Wi-Fi kartının ətrafdakı bütün simsiz paketləri gizlicə dinləyə bilməsi üçün aktiv edilməli olan xüsusi rejim hansıdır?|Oyun rejimi|Monitor Mode (İzləmə/Monitor rejimi)|Uçuş rejimi|B
+Sual 4: Modemin üzərində olan, 8 rəqəmli PİN kodla sürətli qoşulma təmin edən, lakin hakerlər tərəfindən çox asanlıqla sındırılan təhlükəsizlik boşluğu hansıdır?|NAT|WPS (Wi-Fi Protected Setup)|DHCP|B
+Sual 5: Haker tutduğu Handshake paketini sındırmaq üçün milyonlarla hazır şifrənin olduğu hansı fayl növündən istifadə edir?|Şəkil albomu|Wordlist (Sözlük / Şifrə siyahısı)|Musiqi siyahısı|B
+Sual 6: Wi-Fi təhlükəsizliyində ən qədim, şifrəsi saniyələr içində sındırılan və artıq heç vaxt istifadə edilməməli olan köhnə protokol hansıdır?|WPA2|WEP|WPA3|B
+Sual 7: Müasir dünyada Wi-Fi şəbəkələrini Brute Force (şifrə təxmini) hücumlarından ən güclü şəkildə qoruyan ən yeni simsiz təhlükəsizlik protokolu hansıdır?|WPA|WPA3|WEP|B
+Sual 8: Hakerin Wi-Fi şəbəkəsindəki bütün istifadəçiləri şəbəkədən qoparmaq üçün göndərdiyi saxta paket hücumu necə adlanır?|DDoS|Deauthentication (Bağlantını kəsmə / Şəbəkədən atma hücumu)|Phishing|B
+Sual 9: Evinizdəki Wi-Fi şəbəkəsinin adını (SSID) kənar şəxslərin görməməsi üçün edilməli olan modem tənzimləməsi hansıdır?|Modemi söndürmək|SSID Broadcast-ı bağlamaq (Şəbəkə adını gizlətmək)|Şifrəni silmək|B
+Sual 10: Şifrə sözlüyündə (Wordlist) olmayan çox mürəkkəb bir Wi-Fi şifrəsini hakerin sözlük hücumu ilə sındırması mümkündürmü?|Bəli, hər şeyi sındırar|Xeyr, sözlük hücumu yalnız siyahıdakı şifrələri yoxlayır, şifrə siyahıda yoxdursa sındıra bilməz|Fərqi yoxdur|B
+===MOVZU===
+40
+Mövzu 40: Linux və Kompüter Log Fayllarının Analizi
+Log faylları əməliyyat sistemində, serverdə və ya tətbiqdə baş verən hər bir hərəkətin (uğurlu/uğursuz girişlər, silinən fayllar, xətalar) saniyəbəsaniyə qeydə alındığı rəqəmsal gündəliklərdir. Etik hakerlər və göy komanda (Blue Team) mütəxəssisləri sistemə bir hakerin sızıb-sızmadığını məhz bu log fayllarını analiz edərək tapırlar.
+Qızıl Qaydalar:
+- Log fayllarının təhlükəsizliyini təmin edin; hakerlər sistemə sızdıqdan sonra adətən öz izlərini itirmək üçün ilk növbədə logları silməyə çalışırlar.
+- Kritik sistemlərdə logların mərkəzi və uzaq bir serverdə (SIEM sistemində) toplanmasını təmin edin ki, haker yerli kompüterdəki logu silsə belə, nüsxəsi qalsın.
+Sual 1: Sistemdə baş verən bütün rəqəmsal hərəkətlərin saniyəbəsaniyə yazıldığı qeydiyyat fayllarına nə ad verilir?|Exe faylı|Log faylı (Qeydiyyat gündəliyi)|Mp3 faylı|B
+Sual 2: Linux əməliyyat sistemində təhlükəsizlik və sistem log qeydləri əsasən hansı qovluqda saxlanılır?|/bin|/var/log|/home|B
+Sual 3: Linux-da bir log faylının daxilindəki yenilənmələri canlı və real vaxt rejimində ekranda izləmək üçün hansı əmr yazılır?|ls -l|tail -f|rm -rf|B
+Sual 4: Haker sistemə sızdıqdan sonra kiber-təhlükəsizlik mütəxəssisləri tərəfindən tapılmamaq üçün hansı zərərli addımı atır?|Kompüterin rəngini dəyişir|Log fayllarını təmizləyir və ya silir (Clearing Tracks)|Ekranı kilidləyir|B
+Sual 5: Log faylında qısa müddətdə minlərlə uğursuz giriş cəhdi (Failed Login) görmək nəyin göstəricisidir?|Sistemin yeniləndiyinin|Sistemə qarşı Brute Force (şifrə sındırma) hücumu edildiyinin|İnternetin kəsildiyinin|B
+Sual 6: Müxtəlif cihazlardan gələn milyonlarla log məlumatını mərkəzi bir yerdə toplayıb real vaxtda hücumları analiz edən peşəkar sistem necə adlanır?|Antivirus|SIEM (Security Information and Event Management)|WAF|B
+Sual 7: Linux-da log fayllarının daxilində xüsusi bir İP ünvanını və ya "Hacker" sözünü axtarıb tapmaq üçün hansı filtr əmrindən istifadə olunur?|cd|grep|mkdir|B
+Sual 8: Veb serverin (məs: Apache/Nginx) loglarında "404 Not Found" xətalarının həddindən artıq çox olması hakerin nə etdiyini göstərir?|Saytı bəyəndiyini|Saytdakı gizli qovluq və faylları tapmaq üçün skanlama (Directory Brute Force) etdiyini|Musiqi dinlədiyini|B
+Sual 9: Logların qanuni araşdırmalar zamanı məhkəmədə sübut kimi qəbul edilməsi üçün hansı rəqəmsal xüsusiyyətə sahib olması şərtdir?|Çox böyük olmasına|Zaman damğası (Timestamp) və dəyişdirilməzlik (bütövlük) qorumasına|Rəngli olmasına|B
+Sual 10: Windows əməliyyat sistemində daxili sistem və təhlükəsizlik log qeydlərini vizual şəkildə izləmək üçün hansı proqramdan istifadə olunur?|Notepad|Event Viewer (Hadisə İzləyicisi)|Paint|B
+===MOVZU===
+41
+Mövzu 41: Buffer Overflow (Yaddaş Daşması Hücumları)
+Buffer Overflow (Yaddaş daşması) proqramlaşdırma səhvlərindən qaynaqlanan və sistemlərin tamamilə ələ keçirilməsinə şərait yaradan çox ağır texniki boşluq növüdür. Bir proqramın yaddaşda (RAM) özü üçün ayırdığı xüsusi sahəyə (buferə) tutumundan qat-qat çox məlumat göndərildikdə məlumat daşır. Bu daşma nəticəsində haker kompüterin prosessoruna birbaşa öz zərərli kodlarını (Shellcode) işlətdirməyi bacarır.
+Qızıl Qaydalar:
+- Buffer Overflow boşluqlarının qarşısını almaq üçün C/C++ dilləri əvəzinə yaddaşı avtomatik idarə edən təhlükəsiz dillərdən (Python, Rust, Go) istifadə edin.
+- Əməliyyat sistemi səviyyəsində ASLR (Yaddaş ünvanlarının yerini təsadüfi etmə) və DEP (Məlumatların işlədilməsinin qarşısını alma) qorumalarını aktiv saxlayın.
+Sual 1: Proqramın yaddaş daxilində ayırdığı sahəyə limitindən çox məlumat göndərərək sistemi çaşdırmaq hücumu necə adlanır?|SQL Injection|Buffer Overflow (Bufer/Yaddaş Daşması)|Phishing|B
+Sual 2: Buffer Overflow boşluğu əməliyyat sisteminin hansı fiziki hissəsində (donanımında) baş verir?|Ekran kartında|RAM (Müvəqqəti Yaddaş) və CPU registrlərində|Hard diskdə|B
+Sual 3: Haker uğurlu bir Buffer Overflow hücumu zamanı prosessora birbaşa ötürdüyü zərərli əmr kodlarına nə ad verir?|Textcode|Shellcode (Sistem idarəetmə kodu)|Logcode|B
+Sual 4: Buffer Overflow boşluqlarına əsasən hansı proqramlaşdırma dillərində yazılmış köhnə və ya diqqətsiz proqramlarda rast gəlinir?|Python|C və C++ (çünki yaddaşı birbaşa proqramçı idarə edir)|HTML|B
+Sual 5: Yaddaşdakı funksiyaların geri qayıdış ünvanlarını saxlayan və daşma zamanı haker tərəfindən dəyişdirilən xüsusi yaddaş strukturu necə adlanır?|Array|Stack (Yığın)|Variable|B
+Sual 6: Əməliyyat sistemlərində hər dəfə proqram işləyərkən yaddaş ünvanlarının yerini dəyişdirərək hakerin hədəfi tapmasını çətinləşdirən müdafiə sistemi hansıdır?|Antivirus|ASLR (Address Space Layout Randomization)|Firewall|B
+Sual 7: Yaddaşın məlumat yazılan hissələrində kodların işə salınmasını bloklayan və Buffer Overflow-dan qoruyan Windows funksiyası hansıdır?|BitLocker|DEP (Data Execution Prevention / Data İcra Olunmasının Qarşısının Alınması)|DirectX|B
+Sual 8: Buffer Overflow boşluqlarını proqramı işlətmədən, kodlarını sətir-sətir oxuyaraq tapmaq üsulu necə adlanır?|Dinamik analiz|Statik Kod Analizi (Static Code Analysis)|Fuzzing|B
+Sual 9: Proqramlara minlərlə təsadüfi və gözlənilməz məlumat göndərərək harada çökdüyünü (Buffer Overflow olduğunu) tapan avtomatik test metoduna nə ad verilir?|Phishing|Fuzzing (Fuzz testləri)|OSINT|B
+Sual 10: Müasir dövrdə təhlükəsiz yaddaş idarəetməsi (Memory Safety) ilə məşhur olan və Buffer Overflow boşluqlarına icazə verməyən proqramlaşdırma dili hansıdır?|C|Rust|Assembly|B
+===MOVZU===
+42
+Mövzu 42: OSINT (Açıq Mənbə Kəşfiyyatı)
+OSINT (Open Source Intelligence) internetdə hər kəsə açıq olan mənbələrdən (sosial şəbəkələr, forumlar, dövlət reyestrləri, rəqəmsal xəritələr) qanuni şəkildə məlumat toplamaq sənətidir. Etik hakerlər və sızma testi mütəxəssisləri bir şirkətə hücum simulyasiya etməzdən əvvəl, həmin şirkət haqqında internetdə hansı gizli sənədlərin və ya işçi məlumatlarının sızdığını tapmaq üçün OSINT üsullarından istifadə edirlər.
+Qızıl Qaydalar:
+- Sosial şəbəkələrdə şəxsi biletlərinizin, iş vəsiqələrinizin və ya şirkət daxili kompüter ekranlarınızın şəkillərini heç vaxt paylaşmayın (Hakerlər OSINT ilə bu şəkillərdən məlumat çıxarırlar).
+- Şirkətinizə aid hansı məlumatların internetdə açıq qaldığını görmək üçün mütəmadi olaraq öz adınız və şirkətiniz üzrə OSINT araşdırması aparın.
+Sual 1: İnternetdə hər kəsə açıq və qanuni mənbələrdən istifadə edərək kəşfiyyat etmək və məlumat toplamaq sahəsi necə adlanır?|Cryptography|OSINT (Open Source Intelligence)|Reverse Engineering|B
+Sual 2: Aşağıdakılardan hansı bir OSINT (Açıq mənbə kəşfiyyatı) mənbəyi hesab oluna bilər?|Hakerin gizli serveri|İnstagram, Linkedin, Google Maps və ictimai forumlar|Şifrəli verilənlər bazası|B
+Sual 3: Google axtarış motorunda xüsusi əmrlər (məs: filetype:pdf "confidential") yazaraq gizli sənədləri tapmaq üsulu necə adlanır?|Google Hacking (Google Dorking)|DDoS|Spam|A
+Sual 4: Şəkillərin içərisində gizlənən və şəklin harada, hansı telefonla, saat neçədə çəkildiyini göstərən gizli coğrafi məlumatlara nə ad verilir?|Log data|EXIF (Metadata) məlumatları|Zip data|B
+Sual 5: İnternet saytlarının keçmişdəki və illər əvvəlki hallarnın arxivini saxlayan və OSINT üçün çox vacib olan məşhur rəqəmsal arxiv saytı hansıdır?|Google|Wayback Machine (Archive.org)|Wikipedia|B
+Sual 6: Bir haker şirkətin daxili işçilərinin adlarını və e-mail ünvanlarını ən asan və peşəkar şəkildə hansı sosial platformadan (OSINT ilə) toplaya bilər?|TikTok|LinkedIn (Peşəkar iş şəbəkəsi)|YouTube|B
+Sual 7: OSINT məqsədilə hədəf e-mail ünvanının internetdə hansı saytlarda qeydiyyatda olduğunu tapan məşhur avtomatik alət hansıdır?|Sqlmap|Sherlock (və ya Maltego)|Aircrack|B
+Sual 8: Rəqəmsal xəritələrdən və peyk görüntülərindən istifadə edərək coğrafi mövqe təyini edən OSINT qolu necə adlanır?|Smishing|GEOINT (Geoməkan Kəşfiyyatı)|Phishing|B
+Sual 9: İnternetdə paylaşdığınız sadə bir fotoşəkildən hakerin sizin evinizi tapması hansı məlumatın şəkildə açıq qalması ilə bağlıdır?|Şəklin rənginin|Şəklin daxilindəki GPS koordinat mətni (Metadata) sayəsində|Şəklin ölçüsünə görə|B
+Sual 10: OSINT fəaliyyəti özlüyündə qanunsuz hakerlik sayılır, yoxsa qanunidir?|Tamamilə qanunsuzdur|Tam qanunidir, çünki yalnız hər kəsə açıq olan məlumatlar toplanır|Yalnız gecələr qanunidir|B
+===MOVZU===
+43
+Mövzu 43: Şifrə Sındırma (Brute Force) və Şifrə Gigiyenası
+Brute Force (Qaba qüvvə) hücumu, hakerin bir hesaba daxil olmaq üçün mümkün olan bütün şifrə kombinasiyalarını (məsələn: aaaa, aaab, aaac...) və ya hazır sözlükdəki minlərlə şifrəni (Dictionary Attack) ardıcıl olaraq saniyələr içində sınamasıdır. Şifrəniz nə qədər qısa və sadədirsə, kompüterlər onu bir o qədər sürətlə sındırır.
+Qızıl Qaydalar:
+- Şifrələrinizin Brute Force ilə sındırılmaması üçün uzunluğunu ən azı 12 simvoldan ibarət edin və daxilində böyük-kiçik hərf, rəqəm, simvol işlədin.
+- Hesablarınızda müəyyən sayda səhv şifrə daxil edildikdə hesabı avtomatik bloklayan (Account Lockout) təhlükəsizlik funksiyasını aktiv edin.
+Sual 1: Bir hesabın şifrəsini tapmaq üçün proqram vasitəsilə bütün kombinasiyaları ardıcıl sınamaq hücumu necə adlanır?|Phishing|Brute Force (Qaba qüvvə hücumu)|OSINT|B
+Sual 2: Brute Force hücumlarını saniyədə milyonlarla şifrə yoxlayaraq həyata keçirən ən məşhur etik haker alətlərindən biri hansıdır?|Nmap|John the Ripper (və ya Hydra)|Wireshark|B
+Sual 3: "123456", "password" və ya doğum tarixiniz kimi şifrələrin Brute Force proqramları tərəfindən sındırılması təxminən nə qədər vaxt aparır?|Bir neçə il|Bir neçə saniyə daxilində dərhal sındırılır|Heç vaxt sındırıla bilməz|B
+Sual 4: Şifrələrin verilənlər bazasında gizli saxlanılması üçün çevrildiyi unikal geri dönüşü olmayan riyazi kod variantına nə ad verilir?|İp ünvanı|Hash (Şifrə heşi)|Port|B
+Sual 5: Hakerlərin Brute Force etmədən, əvvəlcədən hesablanmış milyonlarla hazır şifrə heşlərinin (hash) olduğu cədvəllərlə şifrə sındırması necə adlanır?|DDoS|Rainbow Tables (Göyqşağı cədvəlləri ilə hücum)|SQLi|B
+Sual 6: Şaytlarda Brute Force hücumlarının qarşısını alan və ekrana gələn "Mən robot deyiləm" şəkil təsdiqləmə testi necə adlanır?|WAF|CAPTCHA|Cookie|B
+Sual 7: Bir istifadəçinin bütün sosial şəbəkə və bank hesablarında eyni şifrəni istifadə etməsi hansı böyük riski yaradır?|Telefonun donmasını|Bir hesabı sındırılan kimi hakerin həmin eyni şifrə ilə digər bütün hesablarını da dərhal ələ keçirməsi riskini|İnternetin kəsilməsini|B
+Sual 8: Hakerlərin əvvəlki kiber sızmalardan əldə etdikləri milyonlarla istifadəçi adı və şifrəni avtomatik olaraq fərqli saytlarda sınaması hücumu necə adlanır?|Phishing|Credential Stuffing (Hesab məlumatlarının doldurulması)|Buffer Overflow|B
+Sual 9: Şifrələrin hər birini yadda saxlamaq yerinə onları təhlükəsiz şifrəli bir anbarda saxlayan və güclü şifrələr yaradan proqramlar necə adlanır?|Oyun meneceri|Password Manager (Şifrə İdarəedicisi - məs: Bitwarden)|Antivirus|B
+Sual 10: Şifrələrin hakerlər tərəfindən Rainbow cədvəlləri ilə asan qırılmaması üçün heşlənməzdən əvvəl önünə təsadüfi simvolların əlavə edilməsi prosesi necə adlanır?|Formatlaşdırma|Salting (Duzlama metodu)|Skanlama|B
+===MOVZU===
+44
+Mövzu 44: Zərərli Proqram Analizi və Sandbox
+Zərərli proqram analizi (Malware Analysis) kiber-təhlükəsizlik mütəxəssislərinin tapılan bir virusun kompüterə nə etdiyini, hansı məlumatları oğurladığını və hansı haker serveri ilə əlaqə qurduğunu araşdırması prosesidir. Bu araşdırma real kompüterlərə ziyan vurmasın diye tamamilə təcrid olunmuş, qapalı virtual mühitlərdə – "Sandbox" (Qum qutusu) sistemlərində aparılır.
+Qızıl Qaydalar:
+- İnternetdən yüklədiyiniz və şübhələndiyiniz hər hansı bir faylı işə salmazdan əvvəl onu "VirusTotal" kimi onlayn skanerlərdə mütləq yoxlayın.
+- Zərərli proqram testlərini heç vaxt öz şəxsi kompüterinizin əsas əməliyyat sistemində birbaşa sınaqdan keçirməyin.
+Sual 1: Tapılan bir virusun və ya zərərli proqramın işləmə mexanizmini və kodlarını öyrənən elm sahəsi hansıdır?|OSINT|Malware Analysis (Zərərli proqram analizi)|Kriptoqrafiya|B
+Sual 2: Virusların əsas kompüterə və şəbəkəyə zərər vermədən təhlükəsiz şəkildə işlədilərək test edildiyi təcrid olunmuş virtual mühit necə adlanır?|Firewall|Sandbox (Qum qutusu / Virtual təcrid mühiti)|Hard disk|B
+Sual 3: Bir zərərli proqramın kodlarını açmadan, sadəcə onun ölçüsünə, daxilindəki mətnlərə (strings) və heş (hash) dəyərinə baxaraq edilən analiz növü hansıdır?|Dinamik analiz|Statik Analiz (Static Analysis)|Fuzzing|B
+Sual 4: Zərərli proqramı Sandbox daxilində real olaraq işə salıb, onun hansı faylları sildiyini və hansı saytlara bağlandığını izləyən analiz üsulu hansıdır?|Statik analiz|Dinamik Analiz (Dynamic Analysis)|OSINT|B
+Sual 5: Hakerlərin hazırladıqları virusun antiviruslar tərəfindən tanınmaması üçün onun daxili kod strukturunu qarışdırıb oxunmaz hala gətirməsi prosesi necə adlanır?|Formatlaşdırma|Obfuscation (Kodun dumanlandırılması/qarışdırılması)|Şifrələmə|B
+Sual 6: İnternetdən yüklənən bir faylın heş (hash) dəyərini eyni vaxtda 70-dən çox antivirusla skan edib nəticəni göstərən məşhur pulsuz onlayn kiber-platforma hansıdır?|Google|VirusTotal|Wikipedia|B
+Sual 7: Zərərli proqramların daxili Assembly kodlarını sətir-sətir analiz etmək və proqramı geriyə doğru addım-addım işlətmək üçün istifadə olunan alət növü hansıdır?|Browser|Debugger / Disassembler (məs: x64dbg, IDA Pro)|Firewall|B
+Sual 8: Virus analiz mütəxəssislərinin yeni tapdıqları zərərli proqramın bütün dünyada tanınması üçün onun xüsusi davranış və fayl göstəricilərini qeyd etdiyi siyahı necə adlanır?|Oyun siyahısı|IoC (Indicators of Compromise / Yoluxma Göstəriciləri)|Log data|B
+Sual 9: Zərərli proqramların Sandbox (virtual mühit) daxilində olduğunu hiss etdikdə özünü zərərsiz bir proqram kimi aparması və ya işləməməsi taktikası necə adlanır?|Anti-Analysis / Anti-VM (Analizdən qaçma taktikası)|Phishing|DDoS|A
+Sual 10: Kompüter sistemində arxa fonda gizlicə işləyərək klaviaturada basdığınız hər bir hərfi (şifrələri və mesajları) hakerə göndərən virus növü hansıdır?|Adware|Keylogger|Ransomware|B
+===MOVZU===
+45
+Mövzu 45: Əksinə Mühəndislik (Reverse Engineering)
+Əksinə Mühəndislik (Reverse Engineering) hazır bir proqramın, oyunun və ya zərərli proqramın daxili kodları və qaynaq materialları olmadan, onun işləmə prinsipini geriyə doğru araşdıraraq kod strukturunu (Assembly səviyyəsində) ortaya çıxarmaq sənətidir. Etik hakerlər bu üsulla proqramlardakı gizli boşluqları və ya virusların daxili şifrə açarlarını tapırlar.
+Qızıl Qaydalar:
+- Əksinə mühəndislik alətlərindən istifadə edərək lisenziyalı proqramları icazəsiz sındırmaq (Cracking) qanunsuz müəllif hüququ pozuntusudur və kiber-cinayətdir.
+- Proqramlarınızı əksinə mühəndislik hücumlarından qorumaq üçün kodlarınızı xüsusi "Anti-Debugging" və "Packer" proqramları ilə müdafiə edin.
+Sual 1: Hazır bir proqramın işləmə mexanizmini geriyə doğru araşdıraraq onun daxili kod strukturunu anlamaq prosesi necə adlanır?|OSINT|Reverse Engineering (Əksinə Mühəndislik)|Phishing|B
+Sual 2: Əksinə mühəndislik zamanı proqramın maşın kodları (0 və 1-lər) insan tərəfindən oxunabilən hansı ən aşağı səviyyəli proqramlaşdırma dilinə çevrilir?|Python|Assembly dili|HTML|B
+Sual 3: ABŞ-ın Milli Təhlükəsizlik Agentliyi (NSA) tərəfindən yaradılan və əksinə mühəndislik üçün pulsuz paylanılan ən məşhur proqram analiz aləti hansıdır?|Nmap|Ghidra|Wireshark|B
+Sual 4: Proqramın daxilindəki lisenziya və şifrə yoxlama funksiyalarını (məs: İF/ELSE şərtlərini) Assembly səviyyəsində dəyişdirərək proqramı saxtalaşdırmaq prosesi necə adlanır?|Skanlama|Cracking (Proqram sındırma)|Backup|B
+Sual 5: Əksinə mühəndislik mütəxəssislərinin proqram kodlarını tamamilə açıb oxumaq üçün istifadə etdiyi və Assembly dilinə çevirən alət növü hansıdır?|Compiler|Disassembler|Browser|B
+Sual 6: Hakerlərin bir oyunun və ya proqramın əksinə mühəndisliklə kodunu dəyişdirib daxilinə gizli virus yerləşdirməsi prosesi necə adlanır?|Yeniləmə|Trojanizing (Troyalaşdırma / Zərərli hala gətirmə)|Formatlaşdırma|B
+Sual 7: Proqramçıların öz proqram kodlarını əksinə mühəndislikdən qorumaq üçün istifadə etdiyi, proqramın yaddaşda oxunmasını çətinləşdirən vasitə hansıdır?|Ekran kilidi|Packer / Obfuscator (Sıkışdırıcı və Qarışdırıcılar)|Musiqi pleyeri|B
+Sual 8: Əksinə mühəndislik zamanı kodların içində addım-addım gəzməyə və yaddaşdakı (RAM) dəyişənləri canlı izləməyə imkan verən alət hansıdır?|Notepad|Debugger (Səhv təmizləyici)|Paint|B
+Sual 9: Bir proqramın tam qaynaq kodlarını (məsələn, Java və ya C# kodlarını) demək olar ki, olduğu kimi geri qaytaran alət növü hansıdır?|Disassembler|Decompiler|Assembler|B
+Sual 10: Əksinə mühəndislik hansı kiber-təhlükəsizlik sahəsində virusların hücum hədəflərini tapmaq üçün kritik əhəmiyyət daşıyır?|Sosial mühəndislik|Zərərli proqram analizi (Malware Analysis)|Wi-Fi şifrə qırma|B
+===MOVZU===
+46
+Mövzu 46: Şəbəkə Skanlama və Nmap Taktikaları
+Şəbəkə skanlama, hədəf sistemdə hansı cihazların aktiv olduğunu, hansı portların açıq olduğunu və hansı əməliyyat sisteminin işlədiyini tapmaq üçün edilən kiber kəşfiyyat mərhələsidir. Bu sahədə dünyada ən güclü və qəbul olunmuş alət Nmap (Network Mapper) proqramıdır. Etik hakerlər şəbəkə müdafiəsini yoxlamaq üçün Nmap əmrlərindən peşəkarcasına istifadə edirlər.
+Qızıl Qaydalar:
+- Sahibindən icazə almadığınız hər hansı bir xarici serverə və ya şəbəkəyə Nmap ilə aqressiv skanlama etmək kiber-kəşfiyyat hücumu sayılır və qanunsuzdur.
+- Şəbəkənizi hakerlərdən qorumaq üçün Firewall vasitəsilə icazəsiz Nmap (Port skan) sorğularını avtomatik bloklayacaq qaydalar qurun.
+Sual 1: Şəbəkədəki aktiv cihazları və açıq portları tapmaq üçün istifadə olunan dünyanın ən məşhur şəbəkə skan aləti hansıdır?|Sqlmap|Nmap|Wireshark|B
+Sual 2: Nmap skanlaması zamanı istifadə olunan və əlaqəni tam tamamlamadan portun açıq olub-olmadığını tapan ən sürətli gizli skan növü hansıdır?|TCP Connect Skan|SYN Stealth Scan (-sS)|UDP Scan|B
+Sual 3: Nmap-də hədəf sistemin hansı Əməliyyat Sistemini (Windows, Linux və s.) işlətdiyini öyrənmək üçün hansı parametr yazılır?|-sP|-O (Operating System Detection)|-sU|B
+Sual 4: Nmap vasitəsilə hədəf portlarda işləyən proqramların dəqiq versiyalarını (məs: Apache 2.4.41) öyrənmək üçün hansı kod daxil edilir?|-sX|-sV (Version Detection)|-F|B
+Sual 5: Nmap-in daxilində olan və hədəfdəki boşluqları avtomatik tapmağa imkan verən xüsusi skript sisteminin adı nədir?|NXT|NSE (Nmap Scripting Engine)|NMS|B
+Sual 6: Bir port Nmap skanında "Filtered" (Filtrlənmiş) olaraq görünürsə, bu nəyin göstəricisidir?|Portun tam açıq olduğunun|Portun qarşısında bir Firewall (Təhlükəsizlik divarı) olduğunu və paketləri blokladığının|Kompüterin sönülü olduğunun|B
+Sual 7: Nmap skanını olduqca aqressiv, çox sürətli və səs-küylü edən, lakin Firewall-lar tərəfindən dərhal tutulan sürət parametri hansıdır?|-T0|-T5 (Aqressiv Sürət)|-T1|B
+Sual 8: Nmap-də "Ping" göndərmədən, hədəfin sönülü olduğunu fərz etmədən birbaşa portları skan etmək üçün hansı vacib kod əlavə olunur?|-sS|-Pn|-sU|B
+Sual 9: Yalnız UDP protokolu ilə işləyən gizli portları (məs: DNS, DHCP) skan etmək üçün Nmap-də hansı parametr yazılır?|-sT|-sU (UDP Scan)|-sA|B
+Sual 10: Nmap ilə bütün 65535 portun hamısını tam skan etmək üçün port təyinində hansı kod yazılır?|-p 80|-p- (və ya -p 1-65535)|-p 443|B
+===MOVZU===
+47
+Mövzu 47: İdentifikasiya və Giriş İdarəetməsi (IAM)
+İdentifikasiya və Giriş İdarəetməsi (Identity and Access Management - IAM) kiber-təhlükəsizlikdə düzgün insanın, düzgün sistemə, düzgün səbəblə və lazımi vaxtda daxil ola bilməsini təmin edən mərkəzi müdafiə strukturudur. Bu sistem istifadəçilərin kimliyini yoxlayır və hakerlərin icazəsiz şəkildə şirkətin daxili sənədlərinə sızmasının qarşısını alır.
+Qızıl Qaydalar:
+- Şirkətlərdə "Ən Az Səlahiyyət Prinsipi" (Least Privilege) tətbiq olunmalıdır; yəni işçiyə yalnız öz işini görməsi üçün vacib olan minimum giriş icazəsi verilməlidir.
+- Şifrələrlə yanaşı, giriş sistemlərində mütləq biometrik məlumatlar (barmaq izi, üz tanıma) və ya fiziki təhlükəsizlik açarları (YubiKey) istifadə edilməlidir.
+Sual 1: Təhlükəsizlikdə istifadəçinin sistemə daxil etdiyi ad və ya rəqəmsal kimlik bəyanı necə adlanır?|Avtorizasiya|İdentifikasiya (Identification)|Şifrələmə|B
+Sual 2: Giriş sistemində istifadəçinin iddia etdiyi şəxs olduğunu şifrə, PIN və ya barmaq izi ilə sübut etməsi prosesi necə adlanır?|Formatlaşdırma|Autentifikasiya (Authentication / Doğrulama)|Skanlama|B
+Sual 3: Kimliyi təsdiqlənmiş bir istifadəçinin sistem daxilində hansı qovluqlara girə biləcəyini və hansı faylları silə biləcəyini təyin edən icazə mərhələsi hansıdır?|İdentifikasiya|Avtorizasiya (Authorization / Səlahiyyətləndirmə)|Heç biri|B
+Sual 4: Bir şirkət işçisinə yalnız öz vəzifəsinə uyğun olan minimum səlahiyyətin verilməsini tələb edən qızıl kiber-qayda hansıdır?|Maksimum Səlahiyyət Modeli|Least Privilege (Ən Az Səlahiyyət Prinsipi)|Açıq Giriş Modeli|B
+Sual 5: İstifadəçinin sahib olduğu bir şey (fiziki token), bildiyi bir şey (şifrə) və özünə aid bir xüsusiyyəti (barmaq izi) birlikdə tələb edən güclü doğrulama hansıdır?|MFA (Multi-Factor Authentication / Çoxfaktorlu Doğrulama)|Bəsit şifrə|Heç biri|A
+Sual 6: Şirkət daxilində bir işçinin vəzifəsi dəyişdikdə və ya işdən çıxdıqda onun bütün giriş icazələrinin dərhal ləğv edilməsi prosesi necə adlanır?|Yeniləmə|Deprovisioning (Səlahiyyətlərin ləğv edilməsi/silinməsi)|Format|B
+Sual 7: İstifadəçinin yalnız bir dəfə mərkəzi şifrə daxil etməklə şirkətin digər bütün fərqli daxili tətbiqlərinə avtomatik daxil ola bilməsi texnologiyası necə adlanır?|DDoS|SSO (Single Sign-On / Tək Giriş Sistemi)|VPN|B
+Sual 8: İnsan bədəninin dəyişməz xüsusiyyətlərindən (göz qişası, barmaq izi, səs) istifadə edərək edilən autentifikasiya növü hansıdır?|Yazılı doğrulama|Biometrik Doğrulama|Sosial doğrulama|B
+Sual 9: Hakerlərin bir işçinin hesabını ələ keçirdikdən sonra addım-addım öz səlahiyyətlərini artıraraq sistemdə "Admin" (Süper istifadəçi) səviyyəsinə qalxması hücumu necə adlanır?|Phishing|Privilege Escalation (Səlahiyyətlərin yüksəldilməsi)|DDoS|B
+Sual 10: Təhlükəsizlikdə rol əsaslı giriş idarəetməsi (məs: yalnız mühasiblər pul bölməsinə baxsın) beynəlxalq dildə qısaca necə adlanır?|MAC|RBAC (Role-Based Access Control)|DAC|B
+===MOVZU===
+48
+Mövzu 48: Şəbəkə Arxitekturası və Demilitarizasiya Zonası (DMZ)
+Şəbəkə arxitekturası, bir şirkətin kompüterlərini, serverlərini və şəbəkə avadanlıqlarını hakerlərdən qorumaq üçün düzgün şəkildə qruplaşdırıb ayırmasıdır (Şəbəkə Seqmentasiyası). Bu sahədə ən kritik anlayış DMZ (Demilitarized Zone - Silahsızlaşdırılmış Zona) şəbəkəsidir. DMZ, internetə açıq olan serverlərin (məs: veb sayt serveri) şirkətin gizli daxili şəbəkəsindən tamamilə təcrid olunduğu xüsusi tampon zonadır.
+Qızıl Qaydalar:
+- İnternetə xidmət göstərən serverləri (Veb, Mail) heç vaxt şirkətin daxili işçi kompüterləri ilə eyni şəbəkə daxilində yerləşdirməyin.
+- DMZ zonasından daxili şəbəkəyə doğru gedən bütün trafik Firewall tərəfindən çox sərt şəkildə məhdudlaşdırılmalıdır.
+Sual 1: İnternetə açıq serverləri şirkətin gizli daxili şəbəkəsindən ayıran xüsusi qoruyucu tampon şəbəkə zonası necə adlanır?|Lokal Şəbəkə|DMZ (Demilitarized Zone / Silahsızlaşdırılmış Zona)|İnternet provayderi|B
+Sual 2: Böyük bir şəbəkəni kiçik, bir-birindən təcrid olunmuş alt şəbəkələrə bölərək təhlükəsizliyi artırmaq prosesi necə adlanır?|Formatlaşdırma|Network Segmentation (Şəbəkə Seqmentasiyası)|Skanlama|B
+Sual 3: Haker DMZ zonasındakı bir veb serveri sındırarsa, daxili şəbəkə seqmentasiyası sayəsində nəyin qarşısı alınmış olur?|İnternetin tamamilə kəsilməsinin|Hakerin birbaşa daxili işçi kompüterlərinə və məxfi serverlərə sıçramasının (Yanal hərəkətin) qarşısı alınır|Kompüterin yanmasının|B
+Sual 4: Şəbəkə avadanlığı olan Switch üzərində virtual olaraq fərqli şəbəkə qrupları (məs: Tələbələr və Müəllimlər şəbəkəsi) yaratmaq texnologiyası hansıdır?|NAT|VLAN (Virtual Local Area Network)|DNS|B
+Sual 5: Şəbəkə arxitekturasında daxili şəbəkədən gələn internet sorğularını öz üzərinə götürərək istifadəçilərin İP ünvanını gizlədən və saytları filtrləyən ara server hansıdır?|DNS Server|Proxy Server|Mail Server|B
+Sual 6: DMZ zonasını formalaşdırmaq və şəbəkə qrupları arasında keçid qaydalarını tənzimləmək üçün hansı əsas təhlükəsizlik cihazı istifadə olunur?|Hub|Firewall (Təhlükəsizlik Divarı)|Repeater|B
+Sual 7: Şəbəkə daxilində yalnız müəyyən olunmuş kompüterlərin bir-biri ilə əlaqə saxlamasını təmin edən qapalı təhlükəsizlik arxitekturası necə adlanır?|Açıq şəbəkə|İzolə olunmuş (Təcrid edilmiş) şəbəkə|Qlobal şəbəkə|B
+Sual 8: Hakerlərin sındırdıqları bir cihazdan istifadə edərək eyni şəbəkədəki digər cihazlara doğru irəliləməsi kiber-hücum terminologiyasında necə adlanır?|Phishing|Lateral Movement (Yanal Hərəkət)|OSINT|B
+Sual 9: Şəbəkədə olan hər bir cihazın şəbəkəyə qoşulmazdan əvvəl kimliyini və təhlükəsizlik vəziyyətini (antivirusunun olub-olmadığını) yoxlayan mərkəzi nəzarət sistemi hansıdır?|WAF|NAC (Network Access Control / Şəbəkə Giriş Nəzarəti)|DNS|B
+Sual 10: İnternet üzərindən gələn zərərli və həddindən artıq böyük trafik dalğasını (DDoS) şəbəkəyə çatmadan əvvəl təmizləyən müdafiə xidməti hara quraşdırılır?|Daxili kompüterə|Şəbəkənin ən xarici giriş nöqtəsinə (Şəbəkə perimetrinə)|Modemin altına|B
+===MOVZU===
+49
+Mövzu 49: Kiber İnsidentlərin İdarə Edilməsi və Cavab tədbirləri
+Kiber İnsidentlərin İdarə Edilməsi (Incident Response), bir şirkət kiber-hücuma məruz qaldıqda (məsələn, virus yayıldıqda və ya məlumatlar sızdıqda) zərərin böyüməməsi üçün təcili və koordinasiyalı şəkildə həyata keçirilən xüsusi plan və əməliyyat dərsləridir. Bu prosesi idarə edən peşəkar komandaya CSIRT və ya CERT (Kiber İnsidentlərə Qarşı Cavab Qrupu) deyilir.
+Qızıl Qaydalar:
+- Bir kompüterdə virus və ya haker hücumu aşkarlanan kimi dərhal atılmalı olan ilk addım, onun daxili şəbəkə və Wi-Fi bağlantısını kəsməkdir (Təcrid etmə).
+- Hər bir şirkətin əvvəlcədən hazırlanmış və sınaqdan keçirilmiş rəsmi İnsident Cavab Planı (Incident Response Plan) olmalıdır.
+Sual 1: Sistemdə baş verən kiber-hücum və ya təhlükəsizlik pozuntusu hadisəsinə kiber-təhlükəsizlikdə nə ad verilir?|Update|Kiber İnsident (Incident)|Log|B
+Sual 2: Şirkətlərdə kiber-hücum baş verdiyi andan etibarən böhranı idarə edən və hücumu dayandıran xüsusi qrup necə adlanır?|Red Team|Incident Response Team (İnsidentə Cavab Komandası / CSIRT)|Satış komandası|B
+Sual 3: Hücuma məruz qalan və virus yoluxan bir serverin digər kompüterləri də yoluxdurmaması üçün şəbəkədən dərhal ayrılması mərhələsi necə adlanır?|Kəşfiyyat|Containment (Təcrid etmə / Hücumu məhdudlaşdırma)|Hesabatlama|B
+Sual 4: İnsident idarəetməsinin birinci və ən ilkin mərhələsi hansıdır?|Hücum edəni tapmaq|Preparation (Hazırlıq mərhələsi - Planların və təlimlərin əvvəlcədən qurulması)|Kompüteri format etmək|B
+Sual 5: İnsident zamanı sistemə sızan virusların, arxa qapıların (backdoor) və haker kodlarının sistemdən tamamilə təmizlənməsi mərhələsi hansıdır?|Skanlama|Eradication (Kökünü kəsmə / Tamamilə təmizləmə)|Kəşfiyyat|B
+Sual 6: Hücum tamamilə dayandırıldıqdan sonra sistemlərin ehtiyat nüsxədən (backup) geri qaytarılaraq normal fəaliyyətinə bərpa edilməsi mərhələsi necə adlanır?|Təcrid etmə|Recovery (Bərpa etmə mərhələsi)|Hesabatlama|B
+Sual 7: Hücum prosesi tam bitdikdən sonra komandanın toplanıb "Bu hücum niyə baş verdi və gələcəkdə bunun qarşısını necə ala bilərik" müzakirəsi necə adlanır?|Format testi|Lessons Learned (Alınmış Dərslər / Sonrakı Analiz)|Oyun mərhələsi|B
+Sual 8: Kiber insident zamanı hakerlərin kompüter daxilində etdiyi dəyişiklikləri və rəqəmsal sübutları hüquqi araşdırma üçün qoruyan elm sahəsi hansıdır?|Sosial mühəndislik|Digital Forensics (Rəqəmsal Kriminalistika / Ekspertiza)|OSINT|B
+Sual 9: Bir şirkətin kiber-hücum zamanı fəaliyyətinin tamamilə dayanmaması və işin davam etməsini təmin edən ümumi idarəetmə planı necə adlanır?|Oyun planı|BCP (Business Continuity Planning / Biznesin Davamlılığı Planlaşdırılması)|Skan planı|B
+Sual 10: İnsident zamanı hakerlərin sistemdən canlı məlumat oğurladığını təsbit etmək kiber-təhlükəsizlikdə necə adlanır?|Data Integration|Data Exfiltration (Məlumatın sızdırılması/kənara çıxarılması)|Data Format|B
+===MOVZU===
+50
+Mövzu 50: Etik Hakerliyin Hüquqi Əsasları və Hesabatlama
+Etik Hakerlik (Ethical Hacking), sistemləri qorumaq məqsədilə, yalnız və yalnız sahibinin rəsmi yazılı icazəsi daxilində həyata keçirilən kiber-təhlükəsizlik fəaliyyətidir. Ağ Şlyapalı hakerlərin tapdıqları zəiflikləri internetdə paylaşması və ya satması qadağandır; onlar bütün tapıntıları peşəkar bir "Pentest Hesabatı" halına salaraq yalnız sistemi qorumaqla mükəlləf olan şirkət rəhbərliyinə təqdim etməlidirlər.
+Qızıl Qaydalar:
+- Yazılı və rəsmi müqavilə (ROE - Rules of Engagement) olmadan edilən hər bir sızma cəhdi, məqsədiniz yaxşı olsa belə, qanun qarşısında ağır kiber-cinayət sayılır.
+- Şirkətlərin proqramlarındakı səhvləri tapıb onlara rəsmi şəkildə bildirərək qanuni pul mükafatı qazanmaq sisteminə "Bug Bounty" (Xəta ovçuluğu) deyilir.
+Sual 1: Etik hakerlik fəaliyyətini qanunsuz hakerlikdən ayıran ən əsas hüquqi şərt hansıdır?|Daha sürətli kompüter istifadə etmək|Sistem sahibinin rəsmi, yazılı icazəsi və müqaviləsinin olması|Pulsuz proqramlar işlətmək|B
+Sual 2: Etik hakerin testdən əvvəl şirkətlə imzaladığı və testin sərhədlərini (hansı saytlara hücum edilə bilər, hansına yox) müəyyən edən rəsmi sənəd necə adlanır?|Gizli məktub|ROE (Rules of Engagement / Hücum Qaydaları Müqaviləsi)|Oyun qaydası|B
+Sual 3: Etik haker test zamanı tapdığı bütün kritik təhlükəsizlik boşluqlarını və onların bağlanma yollarını hara daxil etməlidir?|Sosial şəbəkə hesabına|Peşəkar Pentest Hesabatına (Hesabatlama mərhələsi)|Şəxsi gündəliyinə|B
+Sual 4: Böyük şirkətlərin (məs: Google, Apple) öz sistemlərində boşluq tapan etik hakerlərə qanuni şəkildə pul mükafatı verdiyi platformalar necə adlanır?|Oyun turniri|Bug Bounty (Xəta Ovçuluğu Proqramları)|Phishing platforması|B
+Sual 5: Sistemdə tapılan təhlükəsizlik boşluğunun hakerlər tərəfindən istifadə edilməsi üçün yazılan xüsusi sındırma kodlarına və ya alətlərinə nə ad verilir?|Antivirus|Exploit (İstismar kodu/proqramı)|Patch|B
+Sual 6: Tapılan bir təhlükəsizlik boşluğunun istehsalçı şirkət tərəfindən kod yeniləməsi ilə tamamilə bağlanması prosesi necə adlanır?|Formatlaşdırma|Patching (Yamaqlama / Boşluğu bağlama)|Skanlama|B
+Sual 7: Etik hakerlərin sızma testi hesabatında hər bir boşluğun təhlükə dərəcəsini (Kritik, Yüksək, Orta, Aşağı) təyin etmək üçün istifadə etdiyi beynəlxalq standart sistem hansıdır?|OSINT|CVSS (Common Vulnerability Scoring System / Ümumi Boşluq Qiymətləndirmə Sistemi)|DNS|B
+Sual 8: Dünyada yeni tapılan və qeydiyyata alınan bütün rəsmi təhlükəsizlik boşluqlarına verilən beynəlxalq kod adı (məs: CVE-2026-1234) hansıdır?|URL|CVE (Common Vulnerabilities and Exposures)|IP|B
+Sual 9: Şirkətlə testdən əvvəl imzalanan və tapılan boşluqların üçüncü şəxslərə və internetə sızdırılmasını qadağan edən hüquqi müqavilə hansıdır?|ROE|NDA (Non-Disclosure Agreement / Gizlilik Müqaviləsi)|Bug Bounty|B
+Sual 10: Bir etik hakerin tapdığı boşluğu dərhal pis məqsədlə istifadə etmək əvəzinə, istehsalçı şirkətə bildirib onun düzəldilməsi üçün vaxt verməsi prinsipi necə adlanır?|Gizli hücum|Responsible Disclosure (Məsuliyyətli Boşluq Bildirilməsi)|Phishing|B
